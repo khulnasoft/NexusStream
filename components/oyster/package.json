@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/oyster",
+  "version": "0.1.0",
+  "description": "Nexusstream Oyster Components",
+  "main": "oyster.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "oyster"
+  ],
+  "homepage": "https://khulnasoft.com/apps/oyster",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/microsoft_excel",
+  "version": "0.1.0",
+  "description": "Nexusstream Microsoft Excel Components",
+  "main": "microsoft_excel.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_excel"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_excel",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "moment": "^2.29.4"
+  }
+}

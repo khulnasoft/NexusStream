@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/tave",
+  "version": "0.0.1",
+  "description": "Nexusstream Tave Components",
+  "main": "tave.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "tave"
+  ],
+  "homepage": "https://khulnasoft.com/apps/tave",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

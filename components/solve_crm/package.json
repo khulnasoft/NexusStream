@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/solve_crm",
+  "version": "0.0.2",
+  "description": "Nexusstream Solve CRM Components",
+  "main": "solve_crm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "solve_crm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/solve_crm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/diabatix_coldstream",
+  "version": "0.1.0",
+  "description": "Nexusstream Diabatix ColdStream Components",
+  "main": "diabatix_coldstream.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "diabatix_coldstream"
+  ],
+  "homepage": "https://khulnasoft.com/apps/diabatix_coldstream",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/ewebinar",
+  "version": "0.1.0",
+  "description": "Nexusstream eWebinar Components",
+  "main": "ewebinar.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ewebinar"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ewebinar",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

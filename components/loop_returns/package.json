@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/loop_returns",
+  "version": "0.1.0",
+  "description": "Nexusstream Loop Returns Components",
+  "main": "loop_returns.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "loop_returns"
+  ],
+  "homepage": "https://khulnasoft.com/apps/loop_returns",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

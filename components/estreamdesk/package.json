@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/estreamdesk",
+  "version": "0.0.3",
+  "description": "Nexusstream eStreamDest Components",
+  "main": "estreamdesk.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "estreamdesk"
+  ],
+  "files": [
+    "estreamdesk"
+  ],
+  "homepage": "https://khulnasoft.com/apps/estreamdesk",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "xml2json-light": "^1.0.6"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

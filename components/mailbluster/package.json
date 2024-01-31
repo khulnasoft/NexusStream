@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/mailbluster",
+  "version": "0.1.0",
+  "description": "Nexusstream Mailbluster Components",
+  "main": "dist/app/mailbluster.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mailbluster"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mailbluster",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "md5": "^2.3.0",
+    "moment": "^2.29.4"
+  }
+}

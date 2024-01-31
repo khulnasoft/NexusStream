@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/chargeblast",
+  "version": "0.0.1",
+  "description": "Nexusstream Chargeblast Components",
+  "main": "chargeblast.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "chargeblast"
+  ],
+  "homepage": "https://khulnasoft.com/apps/chargeblast",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

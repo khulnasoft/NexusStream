@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/memberstack",
+  "version": "0.0.1",
+  "description": "Nexusstream Memberstack Components",
+  "main": "memberstack.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "memberstack"
+  ],
+  "homepage": "https://khulnasoft.com/apps/memberstack",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@memberstack/admin": "^1.2.2",
+    "@pipedream/platform": "^1.4.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/karbon",
+  "version": "0.0.2",
+  "description": "Nexusstream Karbon Components",
+  "main": "dist/app/karbon.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "karbon"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/karbon",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

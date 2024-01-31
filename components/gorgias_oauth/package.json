@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/gorgias_oauth",
+  "version": "0.3.8",
+  "description": "Nexusstream Gorgias OAuth Components",
+  "main": "gorgias_oauth.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "gorgias",
+    "gorgias_oauth"
+  ],
+  "homepage": "https://khulnasoft.com/apps/gorgias-oauth",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1",
+    "lodash-es": "^4.17.21"
+  }
+}

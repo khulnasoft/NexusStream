@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/webscraping_ai",
+  "version": "0.0.3",
+  "description": "Nexusstream WebScraping.AI Components",
+  "main": "dist/app/webscraping_ai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "webscraping_ai"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/webscraping_ai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

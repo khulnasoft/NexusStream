@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/snyk",
+  "version": "0.0.3",
+  "description": "Nexusstream Snyk Components",
+  "main": "dist/app/snyk.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "snyk"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/snyk",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

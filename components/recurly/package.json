@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/recurly",
+  "version": "0.0.2",
+  "description": "Nexusstream Recurly Components",
+  "main": "recurly.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "recurly"
+  ],
+  "homepage": "https://khulnasoft.com/apps/recurly",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "recurly": "^3.24.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/announcekit",
+  "version": "0.0.2",
+  "description": "Nexusstream AnnounceKit Components",
+  "main": "dist/app/announcekit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "announcekit"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/announcekit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

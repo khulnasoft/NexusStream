@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/agile_crm",
+  "version": "0.1.0",
+  "description": "Nexusstream Agile CRM Components",
+  "main": "agile_crm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "agile_crm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/agile_crm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

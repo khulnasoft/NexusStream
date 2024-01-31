@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/proworkflow",
+  "version": "0.0.3",
+  "description": "Nexusstream Proworkflow Components",
+  "main": "proworkflow.app.mjs",
+  "keywords": [
+		"nexusstream",
+		"proworkflow"
+  ],
+  "homepage": "https://khulnasoft.com/apps/proworkflow",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

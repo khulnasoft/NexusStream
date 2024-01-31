@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/status_hero",
+  "version": "0.0.3",
+  "description": "Nexusstream Status Hero Components",
+  "main": "status_hero.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "status hero",
+    "status_hero"
+  ],
+  "homepage": "https://khulnasoft.com/apps/status-hero",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

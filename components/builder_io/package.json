@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/builder_io",
+  "version": "0.0.2",
+  "description": "Nexusstream Builder.io Components",
+  "main": "dist/app/builder_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "builder_io"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/builder_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

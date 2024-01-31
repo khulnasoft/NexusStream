@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/flexmail",
+  "version": "0.1.0",
+  "description": "Nexusstream Flexmail Components",
+  "main": "flexmail.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "flexmail"
+  ],
+  "homepage": "https://khulnasoft.com/apps/flexmail",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "md5": "^2.3.0"
+  }
+}

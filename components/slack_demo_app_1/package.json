@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/slack_demo_app_1",
+  "version": "0.0.2",
+  "description": "Nexusstream Slack Demo App 1 Components",
+  "main": "dist/app/slack_demo_app_1.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "slack_demo_app_1"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/slack_demo_app_1",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

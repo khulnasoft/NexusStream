@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/ipbase",
+  "version": "0.0.2",
+  "description": "Nexusstream ipbase Components",
+  "main": "ipbase.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ipbase"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ipbase",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/opengraph_io",
+  "version": "0.0.2",
+  "description": "Nexusstream OpenGraph.io Components",
+  "main": "opengraph_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "opengraph_io"
+  ],
+  "homepage": "https://khulnasoft.com/apps/opengraph_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1",
+    "opengraph-io": "^2.0.0"
+  }
+}

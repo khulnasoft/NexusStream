@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/ninox",
+  "version": "0.0.5",
+  "description": "Nexusstream Ninox Components",
+  "main": "dist/app/ninox.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ninox"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ninox",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

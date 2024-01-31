@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/memberful",
+  "version": "0.1.0",
+  "description": "Nexusstream Memberful Components",
+  "main": "dist/app/memberful.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "memberful"
+  ],
+  "homepage": "https://khulnasoft.com/apps/memberful",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "uuid": "^9.0.0"
+  }
+}

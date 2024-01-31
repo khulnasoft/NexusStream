@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/temi",
+  "version": "0.0.2",
+  "description": "Nexusstream Temi Components",
+  "main": "temi.app.mjs",
+  "keywords": [
+		"nexusstream",
+		"temi"
+  ],
+  "homepage": "https://khulnasoft.com/apps/temi",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

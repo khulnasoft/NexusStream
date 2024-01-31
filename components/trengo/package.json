@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/trengo",
+  "version": "0.0.2",
+  "description": "Nexusstream Trengo Components",
+  "main": "trengo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "trengo"
+  ],
+  "homepage": "https://khulnasoft.com/apps/trengo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "crypto-js": "^4.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

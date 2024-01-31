@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/salesmsg",
+  "version": "0.1.0",
+  "description": "Nexusstream Salesmsg Components",
+  "main": "salesmsg.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "salesmsg"
+  ],
+  "homepage": "https://khulnasoft.com/apps/salesmsg",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

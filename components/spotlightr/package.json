@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/spotlightr",
+  "version": "0.1.0",
+  "description": "Nexusstream Spotlightr Components",
+  "main": "spotlightr.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "spotlightr"
+  ],
+  "homepage": "https://khulnasoft.com/apps/spotlightr",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

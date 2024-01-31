@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/poof",
+  "version": "0.1.0",
+  "description": "Nexusstream Poof Components",
+  "main": "poof.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "poof"
+  ],
+  "homepage": "https://khulnasoft.com/apps/poof",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/favro",
+  "version": "0.0.2",
+  "description": "Nexusstream Favro Components",
+  "main": "dist/app/favro.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "favro"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/favro",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

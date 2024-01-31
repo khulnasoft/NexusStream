@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/endorsal",
+  "version": "0.1.0",
+  "description": "Nexusstream Endorsal Components",
+  "main": "endorsal.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "endorsal"
+  ],
+  "homepage": "https://khulnasoft.com/apps/endorsal",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

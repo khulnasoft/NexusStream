@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/expensify",
+  "version": "0.0.3",
+  "description": "Nexusstream Expensify Components",
+  "main": "dist/app/expensify.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "expensify"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/expensify",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.0",
+    "@pipedream/types": "^0.1.3",
+    "qs": "^6.11.0"
+  }
+}

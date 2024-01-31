@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/credit_repair_cloud",
+  "version": "0.1.0",
+  "description": "Nexusstream Credit Repair Cloud Components",
+  "main": "dist/app/credit_repair_cloud.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "credit_repair_cloud"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/credit_repair_cloud",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "js2xmlparser": "^5.0.0",
+    "xml2js": "^0.6.0"
+  }
+}

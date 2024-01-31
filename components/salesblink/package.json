@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/salesblink",
+  "version": "0.0.4",
+  "description": "Nexusstream SalesBlink Components",
+  "main": "dist/app/salesblink.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "salesblink"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/salesblink",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

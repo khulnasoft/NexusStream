@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/float",
+  "version": "0.0.2",
+  "description": "Nexusstream Float Components",
+  "main": "dist/app/float.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "float"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/float",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

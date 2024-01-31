@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/builderall_mailingboss",
+  "version": "0.0.1",
+  "description": "Nexusstream Builderall Mailingboss Components",
+  "main": "builderall_mailingboss.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "builderall_mailingboss"
+  ],
+  "homepage": "https://khulnasoft.com/apps/builderall_mailingboss",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

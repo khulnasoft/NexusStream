@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/kucoin_futures",
+  "version": "0.0.4",
+  "description": "Nexusstream Kucoin Futures Components",
+  "main": "kucoin_futures.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "kucoin_futures"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/kucoin_futures",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

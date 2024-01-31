@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/happy_scribe",
+  "version": "0.1.0",
+  "description": "Nexusstream Happy Scribe Components",
+  "main": "happy_scribe.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "happy_scribe"
+  ],
+  "homepage": "https://khulnasoft.com/apps/happy_scribe",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/humanitix",
+  "version": "0.0.2",
+  "description": "Nexusstream Humanitix Components",
+  "main": "dist/app/humanitix.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "humanitix"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/humanitix",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

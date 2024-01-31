@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/cloudfill",
+  "version": "0.0.3",
+  "description": "Nexusstream CloudFill Components",
+  "main": "dist/app/cloudfill.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cloudfill"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/cloudfill",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/handwrytten",
+  "version": "0.0.1",
+  "description": "Nexusstream Handwrytten Components",
+  "main": "dist/app/handwrytten.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "handwrytten"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/handwrytten",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

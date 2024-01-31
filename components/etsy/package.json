@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/etsy",
+  "version": "0.1.0",
+  "description": "Nexusstream Etsy Components",
+  "main": "etsy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "etsy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/etsy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

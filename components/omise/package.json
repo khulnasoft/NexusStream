@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/omise",
+  "version": "0.1.0",
+  "description": "Nexusstream OPN (formerly Omise) Components",
+  "main": "omise.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "omise"
+  ],
+  "homepage": "https://khulnasoft.com/apps/omise",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

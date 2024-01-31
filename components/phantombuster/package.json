@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/phantombuster",
+  "version": "0.0.1",
+  "description": "Nexusstream Phantombuster Components",
+  "main": "phantombuster.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "phantombuster"
+  ],
+  "homepage": "https://khulnasoft.com/apps/phantombuster",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

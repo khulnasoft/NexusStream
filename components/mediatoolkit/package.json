@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/mediatoolkit",
+  "version": "0.0.3",
+  "description": "Nexusstream Mediatoolkit Components",
+  "main": "dist/app/mediatoolkit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mediatoolkit"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mediatoolkit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/product_hunt",
+  "version": "0.0.2",
+  "description": "Nexusstream Product Hunt Components",
+  "main": "product_hunt.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "product_hunt"
+  ],
+  "homepage": "https://khulnasoft.com/apps/product_hunt",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "graphql-request": "^5.1.0",
+    "graphql": ">=14.0.0 <15.0.0 || >=15.0.0 <16.0.0 || >=16.0.0 <17.0.0 || ^16.8.1"
+  }
+}

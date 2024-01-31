@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/nango",
+  "version": "0.1.0",
+  "description": "Nexusstream Nango Components",
+  "main": "nango.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nango"
+  ],
+  "homepage": "https://khulnasoft.com/apps/nango",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

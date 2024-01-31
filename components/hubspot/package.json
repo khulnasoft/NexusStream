@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/hubspot",
+  "version": "0.7.3",
+  "description": "Nexusstream Hubspot Components",
+  "main": "hubspot.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hubspot"
+  ],
+  "homepage": "https://khulnasoft.com/apps/hubspot",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "bottleneck": "^2.19.5"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "package": "^1.0.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/surveysparrow",
+  "version": "0.1.0",
+  "description": "Nexusstream SurveySparrow Components",
+  "main": "surveysparrow.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "surveysparrow"
+  ],
+  "homepage": "https://khulnasoft.com/apps/surveysparrow",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

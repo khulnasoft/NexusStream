@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/yahoo_fantasy_sports",
+  "version": "0.3.7",
+  "description": "Nexusstream Yahoo_fantasy_sports Components",
+  "main": "yahoo_fantasy_sports.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "yahoo_fantasy_sports"
+  ],
+  "homepage": "https://khulnasoft.com/apps/yahoo_fantasy_sports",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

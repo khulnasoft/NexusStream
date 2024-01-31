@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/loqate",
+  "version": "0.0.2",
+  "description": "Nexusstream Loqate Components",
+  "main": "dist/app/loqate.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "loqate"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/loqate",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

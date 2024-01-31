@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/waiverfile",
+  "version": "0.1.0",
+  "description": "Nexusstream WaiverFile Components",
+  "main": "waiverfile.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "waiverfile"
+  ],
+  "homepage": "https://khulnasoft.com/apps/waiverfile",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.6.0"
+  }
+}

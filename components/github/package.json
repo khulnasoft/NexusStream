@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/github",
+  "version": "1.1.0",
+  "description": "Nexusstream Github Components",
+  "main": "github.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "github"
+  ],
+  "homepage": "https://khulnasoft.com/apps/github",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@octokit/core": "^4.2.4",
+    "@octokit/plugin-paginate-rest": "^2.17.0",
+    "@octokit/webhooks-definitions": "^3.29.0",
+    "@pipedream/platform": "^1.5.1"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

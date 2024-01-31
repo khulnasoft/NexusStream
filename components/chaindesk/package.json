@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/chaindesk",
+  "version": "0.0.1",
+  "description": "Nexusstream Chaindesk Components",
+  "main": "dist/app/chaindesk.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "chaindesk"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/chaindesk",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

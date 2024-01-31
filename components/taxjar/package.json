@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/taxjar",
+  "version": "0.0.2",
+  "description": "Nexusstream TaxJar Components",
+  "main": "dist/app/taxjar.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "taxjar"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/taxjar",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

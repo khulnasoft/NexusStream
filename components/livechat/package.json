@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/livechat",
+  "version": "0.0.1",
+  "description": "Nexusstream LiveChat Components",
+  "main": "livechat.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "livechat"
+  ],
+  "homepage": "https://khulnasoft.com/apps/livechat",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/microsoft_teams",
+  "version": "0.1.1",
+  "description": "Nexusstream Microsoft Teams Components",
+  "main": "microsoft_teams.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_teams",
+    "microsoft",
+    "teams"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_teams",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^3.0.2",
+    "@pipedream/platform": "^1.2.0",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

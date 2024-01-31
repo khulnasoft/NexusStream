@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/signalwire",
+  "version": "0.1.0",
+  "description": "Nexusstream SignalWire Components",
+  "main": "signalwire.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "signalwire"
+  ],
+  "homepage": "https://khulnasoft.com/apps/signalwire",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

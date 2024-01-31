@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/grab_your_reviews",
+  "version": "0.0.2",
+  "description": "Nexusstream Grab Your Reviews Components",
+  "main": "dist/app/grab_your_reviews.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "grab_your_reviews"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/grab_your_reviews",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

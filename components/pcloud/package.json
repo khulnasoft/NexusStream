@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/pcloud",
+  "version": "0.3.8",
+  "description": "Nexusstream pCloud Components",
+  "main": "pcloud.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pcloud"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pcloud",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "async-retry": "^1.3.1",
+    "lodash": "^4.17.20",
+    "pcloud-sdk-js": "^2.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

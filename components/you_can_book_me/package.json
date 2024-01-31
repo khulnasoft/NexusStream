@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/you_can_book_me",
+  "version": "0.0.2",
+  "description": "Nexusstream You Can Book Me Components",
+  "main": "dist/app/you_can_book_me.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "you_can_book_me"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/you_can_book_me",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

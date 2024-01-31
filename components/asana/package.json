@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/asana",
+  "version": "0.6.0",
+  "description": "Nexusstream Asana Components",
+  "main": "asana.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "asana"
+  ],
+  "homepage": "https://khulnasoft.com/apps/asana",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "axios": "^0.21.1"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/sendoso",
+  "version": "0.0.2",
+  "description": "Nexusstream Sendoso Components",
+  "main": "sendoso.app.js",
+  "keywords": [
+    "nexusstream",
+    "sendoso"
+  ],
+  "homepage": "https://khulnasoft.com/apps/sendoso",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}

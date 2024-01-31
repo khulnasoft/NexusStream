@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/paymo",
+  "version": "0.0.2",
+  "description": "Nexusstream Paymo Components",
+  "main": "paymo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "paymo"
+  ],
+  "homepage": "https://khulnasoft.com/apps/paymo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0",
+    "crypto": "^1.0.1",
+    "uuid": "^9.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

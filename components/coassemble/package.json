@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/coassemble",
+  "version": "0.0.3",
+  "description": "Nexusstream Coassemble Components",
+  "main": "dist/app/coassemble.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "coassemble"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/coassemble",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

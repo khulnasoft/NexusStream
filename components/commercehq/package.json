@@ -1,0 +1,15 @@
+{
+  "name": "@khulnasoft.commercehq",
+  "version": "0.0.3",
+  "description": "Nexusstream CommerceHQ Components",
+  "main": "commercehq.app.js",
+  "keywords": [
+    "nexusstream",
+    "commercehq"
+  ],
+  "homepage": "https://khulnasoft.com/apps/commercehq",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

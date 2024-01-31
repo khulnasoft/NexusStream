@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/tutor_lms",
+  "version": "0.0.2",
+  "description": "Nexusstream Tutor LMS Components",
+  "main": "dist/app/tutor_lms.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "tutor_lms"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/tutor_lms",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

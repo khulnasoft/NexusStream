@@ -1,0 +1,16 @@
+{
+  "name": "@khulnasoft.commcare",
+  "version": "0.0.2",
+  "description": "Nexusstream CommCare Components",
+  "main": "dist/app/commcare.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "commcare"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/commcare",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

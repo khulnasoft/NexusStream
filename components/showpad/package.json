@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/showpad",
+  "version": "0.0.4",
+  "description": "Nexusstream Showpad Components",
+  "main": "dist/app/showpad.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "showpad"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/showpad",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

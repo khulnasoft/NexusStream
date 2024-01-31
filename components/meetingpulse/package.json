@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/meetingpulse",
+  "version": "0.1.0",
+  "description": "Nexusstream MeetingPulse  Components",
+  "main": "meetingpulse.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "meetingpulse"
+  ],
+  "homepage": "https://khulnasoft.com/apps/meetingpulse",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

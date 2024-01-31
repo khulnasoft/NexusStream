@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/scrapeninja",
+  "version": "0.0.2",
+  "description": "Nexusstream ScrapeNinja Components",
+  "main": "dist/app/scrapeninja.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "scrapeninja"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/scrapeninja",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

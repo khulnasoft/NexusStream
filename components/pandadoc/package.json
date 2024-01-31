@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/pandadoc",
+  "version": "0.2.6",
+  "description": "Nexusstream PandaDoc Components",
+  "main": "pandadoc.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pandadoc"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pandadoc",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.6.0",
+    "form-data": "^4.0.0"
+  }
+}

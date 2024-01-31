@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/smoove",
+  "version": "0.0.2",
+  "description": "Nexusstream Smoove Components",
+  "main": "smoove.app.mjs",
+  "keywords": [
+		"nexusstream",
+		"smoove"
+  ],
+  "homepage": "https://khulnasoft.com/apps/smoove",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/mailboxvalidator",
+  "version": "0.0.2",
+  "description": "Nexusstream MailboxValidator Components",
+  "main": "dist/app/mailboxvalidator.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mailboxvalidator"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mailboxvalidator",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "@pipedream/types": "^0.1.4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/godial",
+  "version": "0.0.4",
+  "description": "Nexusstream GoDial Components",
+  "main": "app/godial.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "godial"
+  ],
+  "homepage": "https://khulnasoft.com/apps/godial",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

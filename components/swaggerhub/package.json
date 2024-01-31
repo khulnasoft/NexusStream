@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/swaggerhub",
+  "version": "0.0.3",
+  "description": "Nexusstream SwaggerHub Components",
+  "main": "swaggerhub.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "swaggerhub"
+  ],
+  "homepage": "https://khulnasoft.com/apps/swaggerhub",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  }
+}

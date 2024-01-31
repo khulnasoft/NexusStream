@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/corrently",
+  "version": "0.0.2",
+  "description": "Nexusstream Corrently Components",
+  "main": "dist/app/corrently.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "corrently"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/corrently",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

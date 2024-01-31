@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/airmeet",
+  "version": "0.1.0",
+  "description": "Nexusstream Airmeet Components",
+  "main": "airmeet.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "airmeet"
+  ],
+  "homepage": "https://khulnasoft.com/apps/airmeet",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "dayjs": "^1.11.10"
+  }
+}

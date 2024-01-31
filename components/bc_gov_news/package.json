@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/bc_gov_news",
+  "version": "0.0.2",
+  "description": "Nexusstream BC Gov News Components",
+  "main": "dist/app/bc_gov_news.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "bc_gov_news"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/bc_gov_news",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

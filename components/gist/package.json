@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/gist",
+  "version": "0.1.0",
+  "description": "Nexusstream Gist Components",
+  "main": "gist.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "gist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/gist",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

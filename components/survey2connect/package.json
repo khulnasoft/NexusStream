@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/survey2connect",
+  "version": "0.0.1",
+  "description": "Nexusstream Survey2Connect Components",
+  "main": "dist/app/survey2connect.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "survey2connect"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/survey2connect",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

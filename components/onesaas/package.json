@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/onesaas",
+  "version": "0.0.3",
+  "description": "Nexusstream 1SaaS Components",
+  "main": "dist/app/onesaas.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "onesaas"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/onesaas",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

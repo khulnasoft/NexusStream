@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/loopmessage",
+  "version": "0.2.0",
+  "description": "Nexusstream LoopMessage Components",
+  "main": "loopmessage.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "loopmessage"
+  ],
+  "homepage": "https://khulnasoft.com/apps/loopmessage",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

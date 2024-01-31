@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/postalytics",
+  "version": "0.1.0",
+  "description": "Nexusstream Postalytics Components",
+  "main": "postalytics.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "postalytics"
+  ],
+  "homepage": "https://khulnasoft.com/apps/postalytics",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/trustpilot",
+  "version": "0.0.1",
+  "description": "Nexusstream Trustpilot Components",
+  "main": "dist/app/trustpilot.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "trustpilot"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/trustpilot",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

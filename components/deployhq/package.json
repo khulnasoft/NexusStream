@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/deployhq",
+  "version": "0.0.4",
+  "description": "Nexusstream DeployHQ Components",
+  "main": "deployhq.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "deployhq"
+  ],
+  "homepage": "https://khulnasoft.com/apps/deployhq",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

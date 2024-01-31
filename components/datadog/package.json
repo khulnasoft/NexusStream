@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/datadog",
+  "version": "0.1.2",
+  "description": "Nexusstream Datadog Components",
+  "main": "datadog.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "datadog"
+  ],
+  "homepage": "https://khulnasoft.com/apps/datadog",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "uuid": "^8.3.2"
+  }
+}

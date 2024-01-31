@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/hub_planner",
+  "version": "0.0.2",
+  "description": "Nexusstream HUB Planner Components",
+  "main": "dist/app/hub_planner.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hub_planner"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/hub_planner",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

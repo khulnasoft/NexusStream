@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/shopify_developer_app",
+  "version": "0.2.2",
+  "description": "Nexusstream Shopify (Developer App) Components",
+  "main": "shopify_developer_app.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "shopify_developer_app"
+  ],
+  "homepage": "https://khulnasoft.com/apps/shopify_developer_app",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "shopify-api-node": "^3.12.5"
+  }
+}

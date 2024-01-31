@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/facebook_marketing",
+  "version": "0.0.1",
+  "description": "Nexusstream Facebook Custom Audiences Components",
+  "main": "facebook_marketing.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "facebook_marketing"
+  ],
+  "homepage": "https://khulnasoft.com/apps/facebook_marketing",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

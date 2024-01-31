@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/referrizer",
+  "version": "0.1.0",
+  "description": "Nexusstream Referrizer Components",
+  "main": "referrizer.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "referrizer"
+  ],
+  "homepage": "https://khulnasoft.com/apps/referrizer",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

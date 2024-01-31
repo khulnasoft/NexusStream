@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/smsapi",
+  "version": "0.1.0",
+  "description": "Nexusstream SMSAPI Components",
+  "main": "smsapi.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "smsapi"
+  ],
+  "homepage": "https://khulnasoft.com/apps/smsapi",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "query-string": "^8.1.0"
+  }
+}

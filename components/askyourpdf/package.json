@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/askyourpdf",
+  "version": "0.1.0",
+  "description": "Nexusstream AskYourPDF Components",
+  "main": "askyourpdf.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "askyourpdf"
+  ],
+  "homepage": "https://khulnasoft.com/apps/askyourpdf",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/zamzar",
+  "version": "0.1.0",
+  "description": "Nexusstream Zamzar Components",
+  "main": "zamzar.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zamzar"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zamzar",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

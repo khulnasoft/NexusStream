@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/livestorm",
+  "version": "0.1.0",
+  "description": "Nexusstream Livestorm Components",
+  "main": "livestorm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "livestorm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/livestorm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/browserless",
+  "version": "0.1.2",
+  "description": "Nexusstream Browserless Components",
+  "main": "browserless.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "browserless"
+  ],
+  "homepage": "https://khulnasoft.com/apps/browserless",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "puppeteer-core": "^19.7.5"
+  }
+}

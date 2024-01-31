@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/memix",
+  "version": "0.1.1",
+  "description": "Nexusstream Memix Components",
+  "main": "dist/app/memix.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "memix"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/memix",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/imagekit_io",
+  "version": "0.1.1",
+  "description": "Nexusstream ImageKit.io Components",
+  "main": "imagekit_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "imagekit_io"
+  ],
+  "homepage": "https://khulnasoft.com/apps/imagekit_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

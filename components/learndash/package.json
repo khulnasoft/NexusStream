@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/learndash",
+  "version": "0.0.2",
+  "description": "Nexusstream LearnDash Components",
+  "main": "dist/app/learndash.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "learndash"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/learndash",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

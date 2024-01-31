@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/suitedash",
+  "version": "0.0.2",
+  "description": "Nexusstream SuiteDash Components",
+  "main": "dist/app/suitedash.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "suitedash"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/suitedash",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/expedy",
+  "version": "0.0.1",
+  "description": "Nexusstream Expedy Components",
+  "main": "expedy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "expedy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/expedy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

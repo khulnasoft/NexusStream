@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/freshlearn",
+  "version": "0.1.0",
+  "description": "Nexusstream Freshlearn Components",
+  "main": "freshlearn.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "freshlearn"
+  ],
+  "homepage": "https://khulnasoft.com/apps/freshlearn",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

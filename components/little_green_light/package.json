@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/little_green_light",
+  "version": "0.0.1",
+  "description": "Nexusstream Little Green Light Components",
+  "main": "dist/app/little_green_light.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "little_green_light"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/little_green_light",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

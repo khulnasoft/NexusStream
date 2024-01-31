@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/adobe_sign",
+  "version": "0.0.1",
+  "description": "Nexusstream Adobe Acrobat Sign Components",
+  "main": "adobe_sign.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "adobe_sign"
+  ],
+  "homepage": "https://khulnasoft.com/apps/adobe_sign",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/polygonscan",
+  "version": "0.1.0",
+  "description": "Nexusstream PolygonScan Components",
+  "main": "polygonscan.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "polygonscan"
+  ],
+  "homepage": "https://khulnasoft.com/apps/polygonscan",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

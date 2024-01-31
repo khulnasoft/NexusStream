@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/manifestly_checklists",
+  "version": "0.0.2",
+  "description": "Nexusstream Manifestly Checklists Components",
+  "main": "dist/app/manifestly_checklists.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "manifestly_checklists"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/manifestly_checklists",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

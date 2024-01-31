@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/linearb",
+  "version": "0.0.1",
+  "description": "Nexusstream LinearB Components",
+  "main": "linearb.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "linearb"
+  ],
+  "homepage": "https://khulnasoft.com/apps/linearb",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

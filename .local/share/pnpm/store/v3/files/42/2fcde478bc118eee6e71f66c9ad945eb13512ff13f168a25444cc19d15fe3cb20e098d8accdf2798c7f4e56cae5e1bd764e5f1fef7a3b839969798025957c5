@@ -1,0 +1,19 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.DynamoDBStreams = void 0;
+const smithy_client_1 = require("@smithy/smithy-client");
+const DescribeStreamCommand_1 = require("./commands/DescribeStreamCommand");
+const GetRecordsCommand_1 = require("./commands/GetRecordsCommand");
+const GetShardIteratorCommand_1 = require("./commands/GetShardIteratorCommand");
+const ListStreamsCommand_1 = require("./commands/ListStreamsCommand");
+const DynamoDBStreamsClient_1 = require("./DynamoDBStreamsClient");
+const commands = {
+    DescribeStreamCommand: DescribeStreamCommand_1.DescribeStreamCommand,
+    GetRecordsCommand: GetRecordsCommand_1.GetRecordsCommand,
+    GetShardIteratorCommand: GetShardIteratorCommand_1.GetShardIteratorCommand,
+    ListStreamsCommand: ListStreamsCommand_1.ListStreamsCommand,
+};
+class DynamoDBStreams extends DynamoDBStreamsClient_1.DynamoDBStreamsClient {
+}
+exports.DynamoDBStreams = DynamoDBStreams;
+(0, smithy_client_1.createAggregatedClient)(commands, DynamoDBStreams);

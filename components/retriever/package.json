@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/retriever",
+  "version": "0.1.0",
+  "description": "Nexusstream Retriever Components",
+  "main": "retriever.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "retriever"
+  ],
+  "homepage": "https://khulnasoft.com/apps/retriever",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

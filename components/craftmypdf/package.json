@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/craftmypdf",
+  "version": "0.1.0",
+  "description": "Nexusstream CraftMyPDF Components",
+  "main": "craftmypdf.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "craftmypdf"
+  ],
+  "homepage": "https://khulnasoft.com/apps/craftmypdf",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

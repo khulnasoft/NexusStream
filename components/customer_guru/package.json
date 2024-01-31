@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/customer_guru",
+  "version": "0.0.2",
+  "description": "Nexusstream Customer.guru Components",
+  "main": "dist/app/customer_guru.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "customer_guru"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/customer_guru",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

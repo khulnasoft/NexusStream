@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/knowfirst",
+  "version": "0.0.1",
+  "description": "Nexusstream KnowFirst Components",
+  "main": "dist/app/knowfirst.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "knowfirst"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/knowfirst",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

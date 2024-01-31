@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/campaign_cleaner",
+  "version": "0.1.0",
+  "description": "Nexusstream Campaign Cleaner Components",
+  "main": "campaign_cleaner.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "campaign_cleaner"
+  ],
+  "homepage": "https://khulnasoft.com/apps/campaign_cleaner",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

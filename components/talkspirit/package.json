@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/talkspirit",
+  "version": "0.0.2",
+  "description": "Nexusstream talkSpirit Components",
+  "main": "dist/app/talkspirit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "talkspirit"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/talkspirit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

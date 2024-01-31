@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/sms_magic",
+  "version": "0.0.3",
+  "description": "Nexusstream SMS Magic Components",
+  "main": "dist/app/sms_magic.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "sms_magic"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/sms_magic",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

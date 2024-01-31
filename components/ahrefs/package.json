@@ -1,0 +1,17 @@
+{
+  "name": "@nexusstream/ahrefs",
+  "version": "0.0.4",
+  "description": "Nexusstream Ahrefs Components",
+  "main": "ahrefs.app.js",
+  "keywords": [
+    "nexusstream",
+    "ahrefs"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ahrefs",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {},
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

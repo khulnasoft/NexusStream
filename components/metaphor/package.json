@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/metaphor",
+  "version": "0.1.0",
+  "description": "Nexusstream Metaphor Components",
+  "main": "metaphor.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "metaphor"
+  ],
+  "homepage": "https://khulnasoft.com/apps/metaphor",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

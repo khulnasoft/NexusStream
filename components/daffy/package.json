@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/daffy",
+  "version": "0.1.0",
+  "description": "Nexusstream Daffy Components",
+  "main": "daffy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "daffy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/daffy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

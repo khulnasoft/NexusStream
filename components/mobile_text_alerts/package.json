@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/mobile_text_alerts",
+  "version": "0.0.2",
+  "description": "Nexusstream Mobile Text Alerts Components",
+  "main": "dist/app/mobile_text_alerts.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mobile_text_alerts"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/mobile_text_alerts",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

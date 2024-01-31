@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/teamwork",
+  "version": "0.0.2",
+  "description": "Nexusstream TeamWork Components",
+  "main": "teamwork.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "teamwork"
+  ],
+  "homepage": "https://khulnasoft.com/apps/teamwork",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "crypto": "^1.0.1",
+    "uuid": "^9.0.0"
+  }
+}

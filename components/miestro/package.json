@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/miestro",
+  "version": "0.0.1",
+  "description": "Nexusstream Miestro Components",
+  "main": "miestro.app.js",
+  "keywords": [
+    "nexusstream",
+    "miestro"
+  ],
+  "homepage": "https://khulnasoft.com/apps/miestro",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

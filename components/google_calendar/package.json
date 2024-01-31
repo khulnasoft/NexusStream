@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/google_calendar",
+  "version": "0.3.18",
+  "description": "Nexusstream Google_calendar Components",
+  "main": "google_calendar.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_calendar"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_calendar",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@googleapis/calendar": "^1.0.2",
+    "@pipedream/platform": "^1.2.0",
+    "lodash.get": "^4.4.2",
+    "moment-timezone": "^0.5.33",
+    "uuid": "^8.3.2"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

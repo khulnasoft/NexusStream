@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/nasdaq_data_link_time_series_and_table_data_",
+  "version": "0.0.2",
+  "description": "Nexusstream Nasdaq Data Link (Time Series and Table data) Components",
+  "main": "dist/app/nasdaq_data_link_time_series_and_table_data_.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nasdaq_data_link_time_series_and_table_data_"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/nasdaq_data_link_time_series_and_table_data_",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

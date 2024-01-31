@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/ecwid",
+  "version": "0.0.9",
+  "description": "Nexusstream Ecwid Components",
+  "main": "dist/ecwid.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ecwid"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ecwid",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

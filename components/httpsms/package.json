@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/httpsms",
+  "version": "0.0.1",
+  "description": "Nexusstream httpSMS Components",
+  "main": "dist/app/httpsms.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "httpsms"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/httpsms",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

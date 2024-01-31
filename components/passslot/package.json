@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/passslot",
+  "version": "0.0.1",
+  "description": "Nexusstream PassSlot Components",
+  "main": "dist/app/passslot.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "passslot"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/passslot",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

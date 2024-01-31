@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/_twocaptcha",
+  "version": "0.0.1",
+  "description": "Nexusstream twocaptcha Components",
+  "main": "dist/app/_twocaptcha.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "_twocaptcha"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/_twocaptcha",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

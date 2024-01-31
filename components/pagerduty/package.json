@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/pagerduty",
+  "version": "0.3.8",
+  "description": "Nexusstream Pagerduty Components",
+  "main": "pagerduty.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pagerduty"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pagerduty",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

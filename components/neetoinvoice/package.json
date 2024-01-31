@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/neetoinvoice",
+  "version": "0.1.0",
+  "description": "Nexusstream neetoinvoice Components",
+  "main": "neetoinvoice.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "neetoinvoice"
+  ],
+  "homepage": "https://khulnasoft.com/apps/neetoinvoice",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

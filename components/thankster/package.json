@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/thankster",
+  "version": "0.0.2",
+  "description": "Nexusstream Thankster Components",
+  "main": "dist/app/thankster.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "thankster"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/thankster",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

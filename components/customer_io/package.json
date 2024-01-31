@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/customer_io",
+  "version": "0.3.6",
+  "description": "Nexusstream Customer.io Components",
+  "main": "customer_io.app.js",
+  "keywords": [
+    "nexusstream",
+    "customerio",
+    "customer-io",
+    "customer.io",
+    "customer_io"
+  ],
+  "homepage": "https://khulnasoft.com/apps/customer_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  }
+}

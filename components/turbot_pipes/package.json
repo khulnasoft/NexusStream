@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/turbot_pipes",
+  "version": "0.0.1",
+  "description": "Nexusstream Turbot Pipes Components",
+  "main": "turbot_pipes.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "turbot_pipes"
+  ],
+  "homepage": "https://khulnasoft.com/apps/turbot_pipes",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

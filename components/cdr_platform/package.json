@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/cdr_platform",
+  "version": "0.0.2",
+  "description": "Nexusstream CDR Platform Components",
+  "main": "dist/app/cdr_platform.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cdr_platform"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/cdr_platform",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

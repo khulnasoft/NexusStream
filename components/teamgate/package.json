@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/teamgate",
+  "version": "0.0.2",
+  "description": "Nexusstream Teamgate Components",
+  "main": "teamgate.app.js",
+  "keywords": [
+    "nexusstream",
+    "teamgate"
+  ],
+  "homepage": "https://khulnasoft.com/apps/teamgate",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "moment": "^2.29.4"
+  }
+}

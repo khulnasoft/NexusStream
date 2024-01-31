@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/scrapingant",
+  "version": "0.0.1",
+  "description": "Nexusstream ScrapingAnt Components",
+  "main": "scrapingant.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "scrapingant"
+  ],
+  "homepage": "https://khulnasoft.com/apps/scrapingant",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/frontapp",
+  "version": "0.5.0",
+  "description": "Nexusstream Frontapp Components",
+  "main": "frontapp.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "frontapp"
+  ],
+  "homepage": "https://khulnasoft.com/apps/frontapp",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0",
+    "form-data": "^4.0.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

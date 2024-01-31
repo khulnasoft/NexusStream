@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/pinterest",
+  "version": "0.1.0",
+  "description": "Nexusstream Pinterest Components",
+  "main": "pinterest.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pinterest"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pinterest",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "url-exist": "^3.0.0",
+    "js-base64": "^3.7.2",
+    "mime-types": "^2.1.35"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

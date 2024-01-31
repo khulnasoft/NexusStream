@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/vitel_phone",
+  "version": "0.1.0",
+  "description": "Nexusstream Vitel Phone Components",
+  "main": "vitel_phone.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "vitel_phone"
+  ],
+  "homepage": "https://khulnasoft.com/apps/vitel_phone",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "xml2js": "^0.6.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

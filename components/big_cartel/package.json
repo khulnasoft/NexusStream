@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/big_cartel",
+  "version": "0.0.5",
+  "description": "Nexusstream Big Cartel Components",
+  "main": "big_cartel.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "big cartel",
+    "big_cartel"
+  ],
+  "homepage": "https://khulnasoft.com/apps/big-cartel",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

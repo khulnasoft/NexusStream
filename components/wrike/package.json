@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/wrike",
+  "version": "0.0.2",
+  "description": "Nexusstream Wrike Components",
+  "main": "wrike.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "wrike"
+  ],
+  "homepage": "https://khulnasoft.com/apps/wrike",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0",
+    "lodash": "^4.17.21"
+  }
+}

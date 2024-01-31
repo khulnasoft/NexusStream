@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/inoreader",
+  "version": "0.1.0",
+  "description": "Nexusstream Inoreader Components",
+  "main": "inoreader.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "inoreader"
+  ],
+  "homepage": "https://khulnasoft.com/apps/inoreader",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

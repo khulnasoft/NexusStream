@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/danny_test_app",
+  "version": "0.0.1",
+  "description": "Nexusstream Danny -- Test App Components",
+  "main": "dist/app/danny_test_app.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "danny_test_app"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/danny_test_app",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

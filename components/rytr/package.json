@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/rytr",
+  "version": "0.0.2",
+  "description": "Nexusstream Rytr Components",
+  "main": "dist/app/rytr.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "rytr"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/rytr",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/dispatch",
+  "version": "0.0.2",
+  "description": "Nexusstream Dispatch Components",
+  "main": "dist/app/dispatch.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dispatch"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/dispatch",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

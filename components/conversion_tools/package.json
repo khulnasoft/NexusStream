@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/conversion_tools",
+  "version": "0.0.1",
+  "description": "Nexusstream Conversion Tools Components",
+  "main": "conversion_tools.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "conversion_tools"
+  ],
+  "homepage": "https://khulnasoft.com/apps/conversion_tools",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

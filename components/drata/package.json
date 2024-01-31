@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/drata",
+  "version": "0.0.5",
+  "description": "Nexusstream Drata Components",
+  "main": "drata.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "drata"
+  ],
+  "homepage": "https://khulnasoft.com/apps/drata",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/microsoft_outlook",
+  "version": "1.0.3",
+  "description": "Nexusstream Microsoft Outlook Components",
+  "main": "microsoft_outlook.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_outlook",
+    "microsoft",
+    "outlook"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_outlook",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "js-base64": "^3.7.2",
+    "mime-types": "^2.1.35"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/mailgun",
+  "version": "0.0.6",
+  "description": "Nexusstream Mailgun Components",
+  "main": "mailgun.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mailgun"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mailgun",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@nexusstream/helper_functions": "^0.3.7",
+    "@pipedream/platform": "^1.1.1",
+    "form-data": "^4.0.0",
+    "lodash": "^4.17.21",
+    "lodash.get": "^4.4.2",
+    "mailgun.js": "^3.5.2"
+  }
+}

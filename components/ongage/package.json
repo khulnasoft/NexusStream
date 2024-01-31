@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/ongage",
+  "version": "0.0.7",
+  "description": "Nexusstream Ongage Components",
+  "main": "ongage.app.js",
+  "keywords": [
+    "nexusstream",
+    "ongage"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ongage",
+  "author": "Jonathon Hill <jonathon@compwright.com> (https://compwright.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.7",
+    "ongage": "^1.1.6"
+  }
+}

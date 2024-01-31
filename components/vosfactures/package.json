@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/vosfactures",
+  "version": "0.0.4",
+  "description": "Nexusstream Vosfactures Components",
+  "main": "dist/app/vosfactures.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "vosfactures"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/vosfactures",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

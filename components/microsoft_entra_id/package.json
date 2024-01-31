@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/microsoft_entra_id",
+  "version": "0.1.1",
+  "description": "Nexusstream Microsoft Entra ID Components",
+  "main": "microsoft_entra_id.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_entra_id"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_entra_id",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

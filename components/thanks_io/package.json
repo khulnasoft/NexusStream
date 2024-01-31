@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/thanks_io",
+  "version": "0.0.4",
+  "description": "Nexusstream Thanks.io Components",
+  "main": "thanks_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "thanks_io"
+  ],
+  "homepage": "https://khulnasoft.com/apps/thanks_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "date-fns": "^2.29.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/render",
+  "version": "0.0.4",
+  "description": "Nexusstream Render Components",
+  "main": "dist/app/render.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "render"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/render",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

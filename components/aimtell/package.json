@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/aimtell",
+  "version": "0.0.2",
+  "description": "Nexusstream Aimtell Components",
+  "main": "dist/app/aimtell.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "aimtell"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/aimtell",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

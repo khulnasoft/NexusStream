@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/digitalocean_spaces",
+  "version": "0.0.3",
+  "description": "Nexusstream DigitalOcean Spaces Components",
+  "main": "digitalocean_spaces.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "digitalocean_spaces"
+  ],
+  "homepage": "https://khulnasoft.com/apps/digitalocean_spaces",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.231.0",
+    "@nexusstream/helper_functions": "^0.3.8",
+    "@pipedream/platform": "^1.2.1"
+  }
+}

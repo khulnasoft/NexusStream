@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/dealmachine",
+  "version": "0.1.0",
+  "description": "Nexusstream DealMachine Components",
+  "main": "dealmachine.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dealmachine"
+  ],
+  "homepage": "https://khulnasoft.com/apps/dealmachine",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+	},
+	"dependencies": {
+		"@pipedream/platform": "^1.5.1"
+	}
+}

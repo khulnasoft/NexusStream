@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/azure_devops",
+  "version": "0.0.3",
+  "description": "Nexusstream Azure DevOps Components",
+  "main": "azure_devops.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "azure_devops"
+  ],
+  "homepage": "https://khulnasoft.com/apps/azure_devops",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}

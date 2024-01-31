@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/coinmarketcal",
+  "version": "0.0.2",
+  "description": "Nexusstream CoinMarketCal Components",
+  "main": "coinmarketcal.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "coinmarketcal"
+  ],
+  "homepage": "https://khulnasoft.com/apps/coinmarketcal",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

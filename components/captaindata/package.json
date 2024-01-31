@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/captaindata",
+  "version": "0.0.3",
+  "description": "Nexusstream Captain Data Components",
+  "main": "dist/app/captaindata.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "captaindata"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/captaindata",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

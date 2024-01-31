@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/grade_us",
+  "version": "0.0.2",
+  "description": "Nexusstream Grade.us Components",
+  "main": "dist/app/grade_us.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "grade_us"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/grade_us",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

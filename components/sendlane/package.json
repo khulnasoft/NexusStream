@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/sendlane",
+  "version": "0.0.2",
+  "description": "Nexusstream Sendlane Components",
+  "main": "dist/app/sendlane.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "sendlane"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/sendlane",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

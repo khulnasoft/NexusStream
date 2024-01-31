@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/convolo_ai",
+  "version": "0.1.0",
+  "description": "Nexusstream Convolo.ai Components",
+  "main": "convolo_ai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "convolo_ai"
+  ],
+  "homepage": "https://khulnasoft.com/apps/convolo_ai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

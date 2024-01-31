@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/vbout",
+  "version": "0.0.3",
+  "description": "Nexusstream VBOUT Components",
+  "main": "vbout.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "vbout"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/vbout",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "moment": "^2.29.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

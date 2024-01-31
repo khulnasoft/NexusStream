@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/mysql_ssl",
+  "version": "1.0.1",
+  "description": "Nexusstream MySQL (SSL) Components",
+  "main": "mysql_ssl.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mysql_ssl"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mysql_ssl",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "mysql2-promise": "^0.1.4",
+    "uuid": "^8.3.2"
+  }
+}

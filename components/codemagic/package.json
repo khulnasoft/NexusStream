@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/codemagic",
+  "version": "0.0.1",
+  "description": "Nexusstream Codemagic Components",
+  "main": "codemagic.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "codemagic"
+  ],
+  "homepage": "https://khulnasoft.com/apps/codemagic",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

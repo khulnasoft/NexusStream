@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/payhere",
+  "version": "0.0.3",
+  "description": "Nexusstream Payhere Components",
+  "main": "payhere.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "payhere"
+  ],
+  "homepage": "https://khulnasoft.com/apps/payhere",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  }
+}

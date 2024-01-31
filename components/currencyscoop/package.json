@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/currencyscoop",
+  "version": "0.1.1",
+  "description": "Nexusstream CurrencyScoop Components",
+  "main": "dist/app/currencyscoop.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "currencyscoop"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/currencyscoop",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "@pipedream/types": "^0.1.6"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/bannerbear",
+  "version": "0.3.6",
+  "description": "Nexusstream Bannerbear Components",
+  "main": "bannerbear.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "bannerbear"
+  ],
+  "homepage": "https://khulnasoft.com/apps/bannerbear",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

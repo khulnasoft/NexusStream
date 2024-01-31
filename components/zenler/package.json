@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/zenler",
+  "version": "0.0.3",
+  "description": "Nexusstream Zenler Components",
+  "main": "zenler.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zenler"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zenler",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

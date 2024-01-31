@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/zuora",
+  "version": "0.0.2",
+  "description": "Nexusstream Zuora Billing Components",
+  "main": "dist/app/zuora.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zuora"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/zuora",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

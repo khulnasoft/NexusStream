@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/manychat",
+  "version": "0.1.0",
+  "description": "Nexusstream ManyChat Components",
+  "main": "manychat.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "manychat"
+  ],
+  "homepage": "https://khulnasoft.com/apps/manychat",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

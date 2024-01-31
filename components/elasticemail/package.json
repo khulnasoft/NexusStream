@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/elasticemail",
+  "version": "0.0.1",
+  "description": "Nexusstream ElasticEmail Components",
+  "main": "elasticemail.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "elasticemail"
+  ],
+  "homepage": "https://khulnasoft.com/apps/elasticemail",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

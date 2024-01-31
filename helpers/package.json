@@ -1,0 +1,35 @@
+{
+  "name": "@nexusstream/helpers",
+  "version": "1.3.12",
+  "description": "Nexusstream Component Helpers",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "keywords": [
+    "nexusstream",
+    "component",
+    "helpers"
+  ],
+  "types": "dist/index.d.ts",
+  "prepublish": "tsc",
+  "homepage": "https://khulnasoft.com/",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prebuild": "rm -rf dist",
+    "prepublish": "rm -rf dist && tsc",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@pipedream/types": "^0.0.5",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6"
+  },
+  "files": [
+    "dist"
+  ]
+}

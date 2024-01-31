@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/ambient_weather",
+  "version": "0.0.3",
+  "description": "Nexusstream Ambient Weather Components",
+  "main": "dist/app/ambient_weather.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ambient_weather"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ambient_weather",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

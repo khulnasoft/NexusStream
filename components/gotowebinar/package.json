@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/gotowebinar",
+  "version": "0.2.0",
+  "description": "Nexusstream GoToWebinar Components",
+  "main": "gotowebinar.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "gotowebinar"
+  ],
+  "homepage": "https://khulnasoft.com/apps/gotowebinar",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

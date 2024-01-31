@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/propeller",
+  "version": "0.0.4",
+  "description": "Nexusstream Propeller Components",
+  "main": "dist/app/propeller.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "propeller"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/propeller",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/vitally",
+  "version": "0.1.0",
+  "description": "Nexusstream Vitally Components",
+  "main": "vitally.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "vitally"
+  ],
+  "homepage": "https://khulnasoft.com/apps/vitally",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "moment": "^2.29.4"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/google_my_business",
+  "version": "0.1.1",
+  "description": "Nexusstream Google My Business Components",
+  "main": "dist/app/google_my_business.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_my_business"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/google_my_business",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "@pipedream/types": "^0.1.6"
+  }
+}

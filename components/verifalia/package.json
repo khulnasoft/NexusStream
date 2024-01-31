@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/verifalia",
+  "version": "1.1.0",
+  "description": "Nexusstream Verifalia Components",
+  "main": "verifalia.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "verifalia"
+  ],
+  "homepage": "https://verifalia.com/",
+  "author": "Verifalia <support@verifalia.com> (https://verifalia.com/)",
+  "contributors": [
+    "Efran Cobisi (https://verifalia.com/)"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "verifalia": "3.2.2"
+  }
+}

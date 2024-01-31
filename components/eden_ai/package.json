@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/eden_ai",
+  "version": "0.2.0",
+  "description": "Nexusstream Eden AI Components",
+  "main": "eden_ai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "eden_ai"
+  ],
+  "homepage": "https://khulnasoft.com/apps/eden_ai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0"
+  }
+}

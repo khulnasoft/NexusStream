@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/tidy",
+  "version": "0.1.0",
+  "description": "Nexusstream Tidy Components",
+  "main": "tidy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "tidy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/tidy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

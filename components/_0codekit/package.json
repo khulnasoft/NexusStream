@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/_0codekit",
+  "version": "0.0.1",
+  "description": "Nexusstream 0codekit Components",
+  "main": "_0codekit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "_0codekit"
+  ],
+  "homepage": "https://khulnasoft.com/apps/_0codekit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}
+

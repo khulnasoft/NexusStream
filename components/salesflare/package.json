@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/salesflare",
+  "version": "0.0.2",
+  "description": "Nexusstream Salesflare Components",
+  "main": "salesflare.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "salesflare"
+  ],
+  "homepage": "https://khulnasoft.com/apps/salesflare",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

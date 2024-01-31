@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/idx_broker",
+  "version": "0.0.2",
+  "description": "Nexusstream IDX Broker Components",
+  "main": "dist/app/idx_broker.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "idx_broker"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/idx_broker",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

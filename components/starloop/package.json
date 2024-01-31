@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/starloop",
+  "version": "0.1.0",
+  "description": "Nexusstream Starloop Components",
+  "main": "starloop.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "starloop"
+  ],
+  "homepage": "https://khulnasoft.com/apps/starloop",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

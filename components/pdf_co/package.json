@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/pdf_co",
+  "version": "0.0.2",
+  "description": "Nexusstream PDF.co Components",
+  "main": "pdf_co.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pdf.co"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pdf_co",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

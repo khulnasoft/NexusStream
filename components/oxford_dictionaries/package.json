@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/oxford_dictionaries",
+  "version": "0.0.2",
+  "description": "Nexusstream Oxford Dictionaries Components",
+  "main": "dist/app/oxford_dictionaries.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "oxford_dictionaries"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/oxford_dictionaries",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

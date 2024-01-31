@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/dreamstudio",
+  "version": "0.1.1",
+  "description": "Nexusstream DreamStudio (Stable Diffusion) Components",
+  "main": "dreamstudio.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dreamstudio"
+  ],
+  "homepage": "https://khulnasoft.com/apps/dreamstudio",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "got": "^13.0.0",
+    "moment": "^2.29.4",
+    "stream": "^0.0.2"
+  }
+}

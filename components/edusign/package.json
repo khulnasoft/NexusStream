@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/edusign",
+  "version": "0.0.1",
+  "description": "Nexusstream Edusign Components",
+  "main": "edusign.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "edusign"
+  ],
+  "homepage": "https://khulnasoft.com/apps/edusign",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

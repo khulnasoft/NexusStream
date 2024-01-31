@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/semgrep",
+  "version": "0.0.1",
+  "description": "Nexusstream  Semgrep Components",
+  "main": "semgrep.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "semgrep"
+  ],
+  "homepage": "https://khulnasoft.com/apps/semgrep",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

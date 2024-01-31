@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/uipath_automation_hub",
+  "version": "0.1.0",
+  "description": "Nexusstream UiPath Automation Hub Components",
+  "main": "uipath_automation_hub.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "uipath_automation_hub"
+  ],
+  "homepage": "https://khulnasoft.com/apps/uipath_automation_hub",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

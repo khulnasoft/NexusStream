@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/data_police_uk",
+  "version": "0.0.2",
+  "description": "Nexusstream Data.Police.UK Components",
+  "main": "data_police_uk.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "data_police_uk"
+  ],
+  "homepage": "https://khulnasoft.com/apps/data_police_uk",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

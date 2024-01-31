@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/trakt",
+  "version": "0.1.1",
+  "description": "Nexusstream Trakt Components",
+  "main": "trakt.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "trakt"
+  ],
+  "homepage": "https://khulnasoft.com/apps/trakt",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

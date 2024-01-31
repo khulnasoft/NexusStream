@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/vision6",
+  "version": "0.0.3",
+  "description": "Nexusstream Vision6 Components",
+  "main": "vision6.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "vision6"
+  ],
+  "homepage": "https://khulnasoft.com/apps/vision6",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "lodash.pickby": "^4.6.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/simple_analytics",
+  "version": "0.0.2",
+  "description": "Nexusstream Simple Analytics Components",
+  "main": "dist/app/simple_analytics.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "simple_analytics"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/simple_analytics",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

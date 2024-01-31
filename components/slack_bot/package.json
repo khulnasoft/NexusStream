@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/slack_bot",
+  "version": "0.4.14",
+  "description": "Nexusstream Slack_bot Components",
+  "main": "slack_bot.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "slack_bot"
+  ],
+  "homepage": "https://khulnasoft.com/apps/slack_bot",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "@slack/web-api": "^5.15.0"
+  }
+}

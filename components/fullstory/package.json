@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/fullstory",
+  "version": "0.0.3",
+  "description": "Nexusstream Fullstory Components",
+  "main": "fullstory.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "fullstory"
+  ],
+  "homepage": "https://khulnasoft.com/apps/fullstory",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "crypto-js": "^4.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

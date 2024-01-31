@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/onepage",
+  "version": "0.0.1",
+  "description": "Nexusstream Onepage Components",
+  "main": "dist/app/onepage.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "onepage"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/onepage",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

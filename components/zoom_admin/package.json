@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/zoom_admin",
+  "version": "0.6.0",
+  "description": "Nexusstream Zoom_admin Components",
+  "main": "zoom_admin.app.js",
+  "keywords": [
+    "nexusstream",
+    "zoom_admin"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zoom_admin",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/google_dialogflow",
+  "version": "0.0.3",
+  "description": "Nexusstream Google Dialogflow Components",
+  "main": "google_dialogflow.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "Google",
+    "Dialogflow",
+    "Google_Dialogflow"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_dialogflow",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^5.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

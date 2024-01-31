@@ -1,0 +1,24 @@
+{
+  "name": "@nexusstream/verdict_as_a_service",
+  "version": "0.0.3",
+  "description": "Nexusstream Verdict as a Service Components",
+  "main": "dist/app/verdict_as_a_service.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "verdict_as_a_service"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/verdict_as_a_service",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "gdata-vaas": "^2.2.7"
+  },
+  "devDependencies": {
+    "@pipedream/types": "^0.1.4"
+  }
+}

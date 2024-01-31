@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/key_app_demo_1",
+  "version": "0.0.2",
+  "description": "Nexusstream Key App Demo 1 Components",
+  "main": "dist/app/key_app_demo_1.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "key_app_demo_1"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/key_app_demo_1",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/coupontools",
+  "version": "0.0.2",
+  "description": "Nexusstream Coupontools Components",
+  "main": "dist/app/coupontools.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "coupontools"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/coupontools",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

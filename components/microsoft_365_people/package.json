@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/microsoft_365_people",
+  "version": "0.1.0",
+  "description": "Nexusstream Microsoft 365 People Components",
+  "main": "microsoft_365_people.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_365_people"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_365_people",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

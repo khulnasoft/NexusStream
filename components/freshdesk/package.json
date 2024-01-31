@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/freshdesk",
+  "version": "0.0.4",
+  "description": "Nexusstream Freshdesk Components",
+  "main": "freshdesk.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "freshdesk"
+  ],
+  "homepage": "https://khulnasoft.com/apps/freshdesk",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "async-retry": "^1.3.3",
+    "moment": "2.29.4"
+  }
+}

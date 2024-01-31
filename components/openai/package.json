@@ -1,0 +1,29 @@
+{
+  "name": "@nexusstream/openai",
+  "version": "0.5.1",
+  "description": "Nexusstream OpenAI Components",
+  "main": "openai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "openai"
+  ],
+  "homepage": "https://khulnasoft.com/apps/openai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@pipedream/platform": "^1.2.1",
+    "@pipedream/types": "^0.1.4",
+    "axios": "^1.6.2",
+    "bottleneck": "^2.19.5",
+    "form-data": "^4.0.0",
+    "got": "^12.6.0",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.45"
+  }
+}

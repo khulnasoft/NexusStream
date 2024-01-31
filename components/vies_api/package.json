@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/vies_api",
+  "version": "0.1.0",
+  "description": "Nexusstream VIES API Components",
+  "main": "vies_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "vies_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/vies_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "viesapi-client": "^1.2.5"
+  }
+}

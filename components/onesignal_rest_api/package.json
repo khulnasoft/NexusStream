@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/onesignal_rest_api",
+  "version": "0.0.3",
+  "description": "Nexusstream OneSignal (REST API) Components",
+  "main": "onesignal_rest_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "onesignal_rest_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/onesignal_rest_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  }
+}

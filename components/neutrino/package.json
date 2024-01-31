@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/neutrino",
+  "version": "0.0.2",
+  "description": "Nexusstream Neutrino Components",
+  "main": "dist/app/neutrino.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "neutrino"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/neutrino",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

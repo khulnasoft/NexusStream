@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/zoom",
+  "version": "0.4.0",
+  "description": "Nexusstream Zoom Components",
+  "main": "zoom.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zoom"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zoom",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/docusign",
+  "version": "0.1.6",
+  "description": "Nexusstream Docusign Components",
+  "main": "docusign.app.js",
+  "keywords": [
+    "nexusstream",
+    "docusign"
+  ],
+  "homepage": "https://khulnasoft.com/apps/docusign",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

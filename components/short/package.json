@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/short",
+  "version": "0.0.5",
+  "description": "Nexusstream Short.io Components",
+  "main": "short.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "short"
+  ],
+  "homepage": "https://khulnasoft.com/apps/short",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/rudderstack",
+  "version": "0.0.2",
+  "description": "Nexusstream RudderStack HTTP Components",
+  "main": "dist/app/rudderstack.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "rudderstack"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/rudderstack",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

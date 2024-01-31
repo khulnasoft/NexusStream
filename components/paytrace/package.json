@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/paytrace",
+  "version": "0.0.3",
+  "description": "Nexusstream Paytrace Components",
+  "main": "paytrace.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "paytrace"
+  ],
+  "homepage": "https://khulnasoft.com/apps/paytrace",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

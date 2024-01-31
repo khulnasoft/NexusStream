@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/questionpro",
+  "version": "0.0.2",
+  "description": "Nexusstream QuestionPro Components",
+  "main": "dist/app/questionpro.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "questionpro"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/questionpro",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

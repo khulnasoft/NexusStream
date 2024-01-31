@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/perry_github_test",
+  "version": "0.0.2",
+  "description": "Nexusstream github test app Components",
+  "main": "dist/app/perry_github_test.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "perry_github_test"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/perry_github_test",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

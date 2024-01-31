@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/cflow",
+  "version": "0.0.2",
+  "description": "Nexusstream Cflow Components",
+  "main": "dist/app/cflow.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cflow"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/cflow",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

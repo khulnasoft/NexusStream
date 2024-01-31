@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/formaloo",
+  "version": "0.1.0",
+  "description": "Nexusstream Formaloo Components",
+  "main": "formaloo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "formaloo"
+  ],
+  "homepage": "https://khulnasoft.com/apps/formaloo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

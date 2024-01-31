@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/the_odds_api",
+  "version": "0.1.0",
+  "description": "Nexusstream The Odds API Components",
+  "main": "the_odds_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "the_odds_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/the_odds_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "dayjs": "^1.11.10"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/kanbanflow",
+  "version": "0.0.2",
+  "description": "Nexusstream KanbanFlow Components",
+  "main": "dist/app/kanbanflow.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "kanbanflow"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/kanbanflow",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "@pipedream/types": "^0.1.4"
+  }
+}

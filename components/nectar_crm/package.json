@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/nectar_crm",
+  "version": "0.0.4",
+  "description": "Nexusstream Nectar CRM Components",
+  "main": "dist/app/nectar_crm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nectar_crm"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/nectar_crm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  }
+}

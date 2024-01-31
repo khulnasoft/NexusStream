@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/search_api",
+  "version": "0.1.0",
+  "description": "Nexusstream Search API Components",
+  "main": "search_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "search_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/search_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

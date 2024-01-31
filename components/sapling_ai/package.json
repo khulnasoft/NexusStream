@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/sapling_ai",
+  "version": "0.1.1",
+  "description": "Nexusstream Sapling.ai Components",
+  "main": "sapling_ai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "sapling_ai"
+  ],
+  "homepage": "https://khulnasoft.com/apps/sapling_ai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

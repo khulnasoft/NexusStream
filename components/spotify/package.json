@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/spotify",
+  "version": "0.7.0",
+  "description": "Nexusstream Spotify Components",
+  "main": "spotify.app.js",
+  "keywords": [
+    "nexusstream",
+    "spotify"
+  ],
+  "homepage": "https://khulnasoft.com/apps/spotify",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/appdrag",
+  "version": "0.1.0",
+  "description": "Nexusstream AppDrag Components",
+  "main": "appdrag.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "appdrag"
+  ],
+  "homepage": "https://khulnasoft.com/apps/appdrag",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "axios": "^1.6.2",
+    "sqlstring": "^2.3.3"
+  }
+}

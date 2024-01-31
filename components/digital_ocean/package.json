@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/digital_ocean",
+  "version": "0.0.3",
+  "description": "Nexusstream Digital Ocean Components",
+  "main": "digital_ocean.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "digital ocean"
+  ],
+  "homepage": "https://khulnasoft.com/apps/digital_ocean",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "do-wrapper": "^4.5.1"
+  }
+}

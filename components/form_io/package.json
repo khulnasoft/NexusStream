@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/form_io",
+  "version": "0.0.2",
+  "description": "Nexusstream Form.io Components",
+  "main": "dist/app/form_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "form_io"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/form_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

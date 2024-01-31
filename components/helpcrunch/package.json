@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/helpcrunch",
+  "version": "0.1.0",
+  "description": "Nexusstream HelpCrunch  Components",
+  "main": "helpcrunch.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "helpcrunch"
+  ],
+  "homepage": "https://khulnasoft.com/apps/helpcrunch",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/discord",
+  "version": "1.2.3",
+  "description": "Nexusstream Discord Components",
+  "main": "discord.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "discord"
+  ],
+  "homepage": "https://khulnasoft.com/apps/discord",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

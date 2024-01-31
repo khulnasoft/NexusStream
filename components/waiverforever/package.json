@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/waiverforever",
+  "version": "0.3.7",
+  "description": "Nexusstream Waiverforever Components",
+  "main": "waiverforever.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "waiverforever"
+  ],
+  "homepage": "https://khulnasoft.com/apps/waiverforever",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

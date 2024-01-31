@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/rafflys",
+  "version": "0.1.0",
+  "description": "Nexusstream Rafflys Components",
+  "main": "rafflys.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "rafflys"
+  ],
+  "homepage": "https://khulnasoft.com/apps/rafflys",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

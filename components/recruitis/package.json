@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/recruitis",
+  "version": "0.0.1",
+  "description": "Nexusstream Recruitis Components",
+  "main": "recruitis.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "recruitis"
+  ],
+  "homepage": "https://khulnasoft.com/apps/recruitis",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

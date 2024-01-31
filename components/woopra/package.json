@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/woopra",
+  "version": "0.0.2",
+  "description": "Nexusstream Woopra Components",
+  "main": "dist/app/woopra.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "woopra"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/woopra",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

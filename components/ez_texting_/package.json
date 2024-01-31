@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/ez_texting_",
+  "version": "0.0.1",
+  "description": "Nexusstream EZ Texting_ Components",
+  "main": "dist/app/ez_texting_.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ez_texting_"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/ez_texting_",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

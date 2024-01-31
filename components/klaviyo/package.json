@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/klaviyo",
+  "version": "0.0.2",
+  "description": "Nexusstream Klaviyo Components",
+  "main": "klaviyo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "klaviyo"
+  ],
+  "homepage": "https://khulnasoft.com/apps/klaviyo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "klaviyo-sdk": "^1.0.1",
+    "@babel/core": "^7.0.0-0"
+  }
+}

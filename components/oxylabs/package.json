@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/oxylabs",
+  "version": "0.0.2",
+  "description": "Nexusstream Oxylabs Components",
+  "main": "dist/app/oxylabs.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "oxylabs"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/oxylabs",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

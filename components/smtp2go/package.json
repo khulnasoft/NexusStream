@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/smtp2go",
+  "version": "0.0.4",
+  "description": "Nexusstream SMTP2GO Components",
+  "main": "dist/smtp2go.app.ts",
+  "keywords": [
+    "nexusstream",
+    "smtp2go"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/smtp2go",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  }
+}

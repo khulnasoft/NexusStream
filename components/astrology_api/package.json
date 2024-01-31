@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/astrology_api",
+  "version": "0.0.2",
+  "description": "Nexusstream Astrology API Components",
+  "main": "dist/app/astrology_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "astrology_api"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/astrology_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

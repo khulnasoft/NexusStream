@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/autoklose",
+  "version": "0.0.3",
+  "description": "Nexusstream Autoklose Components",
+  "main": "dist/app/autoklose.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "autoklose"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/autoklose",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

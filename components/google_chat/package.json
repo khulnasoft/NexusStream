@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/google_chat",
+  "version": "0.0.2",
+  "description": "Nexusstream Google Chat Components",
+  "main": "google_chat.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_chat"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_chat",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

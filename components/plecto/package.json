@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/plecto",
+  "version": "0.0.2",
+  "description": "Nexusstream Plecto Components",
+  "main": "dist/app/plecto.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "plecto"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/plecto",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

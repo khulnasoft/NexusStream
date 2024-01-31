@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/salesmate",
+  "version": "0.0.3",
+  "description": "Nexusstream Salesmate Components",
+  "main": "dist/app/salesmate.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "salesmate"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/salesmate",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}

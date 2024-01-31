@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/kontent_ai",
+  "version": "0.1.0",
+  "description": "Nexusstream Kontent.ai Components",
+  "main": "kontent_ai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "kontent_ai"
+  ],
+  "homepage": "https://khulnasoft.com/apps/kontent_ai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@kontent-ai/delivery-sdk": "^14.4.0",
+    "@kontent-ai/management-sdk": "^5.2.0",
+    "@kontent-ai/webhook-helper": "^2.1.0",
+    "crypto": "^1.0.1"
+  }
+}

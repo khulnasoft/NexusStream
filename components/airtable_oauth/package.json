@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/airtable_oauth",
+  "version": "0.2.3",
+  "description": "Nexusstream Airtable (OAuth) Components",
+  "main": "airtable_oauth.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "airtable_oauth"
+  ],
+  "homepage": "https://khulnasoft.com/apps/airtable_oauth",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.chunk": "^4.2.0",
+    "moment": "^2.30.1"
+  }
+}

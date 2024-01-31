@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/tidycal",
+  "version": "0.1.0",
+  "description": "Nexusstream TidyCal Components",
+  "main": "tidycal.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "tidycal"
+  ],
+  "homepage": "https://khulnasoft.com/apps/tidycal",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

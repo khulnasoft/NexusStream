@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/microsoft_outlook_calendar",
+  "version": "0.2.0",
+  "description": "Nexusstream Microsoft Outlook Calendar Components",
+  "main": "microsoft_outlook_calendar.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_outlook_calendar",
+    "microsoft",
+    "outlook"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_outlook_calendar",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/kanban_tool",
+  "version": "0.0.2",
+  "description": "Nexusstream Kanban Tool Components",
+  "main": "kanban_tool.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "kanban_tool",
+    "kanban"
+  ],
+  "homepage": "https://khulnasoft.com/apps/kanban-tool",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

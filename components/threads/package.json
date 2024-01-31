@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/threads",
+  "version": "0.2.2",
+  "description": "Nexusstream Threads Components",
+  "main": "threads.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "threads"
+  ],
+  "homepage": "https://khulnasoft.com/apps/threads",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/oauth_app_demo",
+  "version": "0.0.2",
+  "description": "Nexusstream OAuth App Demo Components",
+  "main": "dist/app/oauth_app_demo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "oauth_app_demo"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/oauth_app_demo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

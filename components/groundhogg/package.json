@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/groundhogg",
+  "version": "0.0.2",
+  "description": "Nexusstream GroundHogg Components",
+  "main": "dist/app/groundhogg.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "groundhogg"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/groundhogg",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

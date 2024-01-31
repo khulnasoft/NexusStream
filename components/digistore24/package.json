@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/digistore24",
+  "version": "0.0.2",
+  "description": "Nexusstream Digistore24 Components",
+  "main": "dist/app/digistore24.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "digistore24"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/digistore24",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

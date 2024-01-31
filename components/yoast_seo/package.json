@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/yoast_seo",
+  "version": "0.0.2",
+  "description": "Nexusstream Yoast SEO Components",
+  "main": "dist/app/yoast_seo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "yoast_seo"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/yoast_seo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

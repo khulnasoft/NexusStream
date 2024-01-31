@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/microsoft_power_bi",
+  "version": "0.2.1",
+  "description": "Nexusstream Microsoft Power BI Components",
+  "main": "microsoft_power_bi.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsoft_power_bi"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsoft_power_bi",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/getresponse",
+  "version": "0.0.3",
+  "description": "Nexusstream Getresponse Components",
+  "main": "getresponse.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "getresponse"
+  ],
+  "homepage": "https://khulnasoft.com/apps/getresponse",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

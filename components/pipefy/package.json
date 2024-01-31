@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/pipefy",
+  "version": "0.0.3",
+  "description": "Nexusstream Pipefy Components",
+  "main": "pipefy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pipefy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pipefy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "graphql-request": "^5.0.0",
+    "graphql": ">=14.0.0 <15.0.0 || >=15.0.0 <16.0.0 || >=16.0.0 <17.0.0 || ^16.8.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/youcanbook_me",
+  "version": "0.0.4",
+  "description": "Nexusstream YouCanBook.Me Components",
+  "main": "youcanbook_me.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "youcanbook_me"
+  ],
+  "homepage": "https://khulnasoft.com/apps/youcanbook_me",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/pinecone",
+  "version": "0.0.3",
+  "description": "Nexusstream Pinecone Components",
+  "main": "pinecone.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pinecone"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pinecone",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0",
+    "qs": "^6.11.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

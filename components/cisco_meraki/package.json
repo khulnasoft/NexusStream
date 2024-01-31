@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/cisco_meraki",
+  "version": "0.0.3",
+  "description": "Nexusstream Cisco_meraki Components",
+  "main": "cisco_meraki.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cisco_meraki"
+  ],
+  "homepage": "https://khulnasoft.com/apps/cisco_meraki",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

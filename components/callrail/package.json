@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/callrail",
+  "version": "0.0.1",
+  "description": "Nexusstream CallRail Components",
+  "main": "dist/app/callrail.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "callrail"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/callrail",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/userflow",
+  "version": "0.1.0",
+  "description": "Nexusstream Userflow Components",
+  "main": "userflow.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "userflow"
+  ],
+  "homepage": "https://khulnasoft.com/apps/userflow",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

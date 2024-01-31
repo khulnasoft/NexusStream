@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/zest",
+  "version": "0.1.0",
+  "description": "Nexusstream Zest Components",
+  "main": "zest.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zest"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zest",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

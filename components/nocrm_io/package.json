@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/nocrm_io",
+  "version": "0.0.3",
+  "description": "Nexusstream noCRM.io Components",
+  "main": "nocrm_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nocrm_io"
+  ],
+  "homepage": "https://khulnasoft.com/apps/nocrm_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/diffchecker",
+  "version": "0.1.0",
+  "description": "Nexusstream Diffchecker Components",
+  "main": "diffchecker.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "diffchecker"
+  ],
+  "homepage": "https://khulnasoft.com/apps/diffchecker",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "axios": "^1.6.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}

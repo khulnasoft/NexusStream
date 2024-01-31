@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/easyship",
+  "version": "0.0.2",
+  "description": "Nexusstream Easyship Components",
+  "main": "dist/app/easyship.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "easyship"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/easyship",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

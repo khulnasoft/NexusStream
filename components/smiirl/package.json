@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/smiirl",
+  "version": "0.0.3",
+  "description": "Nexusstream Smiirl Components",
+  "main": "smiirl.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "smiirl"
+  ],
+  "homepage": "https://khulnasoft.com/apps/smiirl",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@smiirl/smiirl-library-js": "^1.0.5"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

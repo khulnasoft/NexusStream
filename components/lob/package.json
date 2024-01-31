@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/lob",
+  "version": "0.1.0",
+  "description": "Nexusstream Lob Components",
+  "main": "dist/app/lob.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "lob"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/lob",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@lob/lob-typescript-sdk": "^1.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/serwersms_pl",
+  "version": "0.0.2",
+  "description": "Nexusstream SerwerSMS.pl Components",
+  "main": "dist/app/serwersms_pl.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "serwersms_pl"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/serwersms_pl",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

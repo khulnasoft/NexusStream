@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/snapchat_marketing",
+  "version": "0.0.4",
+  "description": "Nexusstream Snapchat Marketing Components",
+  "main": "dist/app/snapchat_marketing.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "snapchat_marketing"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/snapchat_marketing",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

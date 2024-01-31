@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/satismeter",
+  "version": "0.1.0",
+  "description": "Nexusstream SatisMeter Components",
+  "main": "satismeter.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "satismeter"
+  ],
+  "homepage": "https://khulnasoft.com/apps/satismeter",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

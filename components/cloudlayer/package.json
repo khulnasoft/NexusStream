@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/cloudlayer",
+  "version": "0.0.2",
+  "description": "Nexusstream Cloudlayer Components",
+  "main": "dist/app/cloudlayer.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cloudlayer"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/cloudlayer",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

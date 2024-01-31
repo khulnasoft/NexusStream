@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/intercom",
+  "version": "0.3.8",
+  "description": "Nexusstream Intercom Components",
+  "main": "intercom.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "intercom"
+  ],
+  "homepage": "https://khulnasoft.com/apps/intercom",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "crypto": "^1.0.1"
+  }
+}

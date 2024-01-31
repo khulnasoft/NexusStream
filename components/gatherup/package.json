@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/gatherup",
+  "version": "0.0.3",
+  "description": "Nexusstream Gatherup Components",
+  "main": "gatherup.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "gatherup"
+  ],
+  "homepage": "https://khulnasoft.com/apps/gatherup",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "dayjs": "^1.11.7"
+  }
+}

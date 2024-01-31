@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/avochato",
+  "version": "0.0.2",
+  "description": "Nexusstream Avochato Components",
+  "main": "dist/app/avochato.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "avochato"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/avochato",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

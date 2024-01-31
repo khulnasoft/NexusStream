@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/bart",
+  "version": "0.0.3",
+  "description": "Nexusstream BART Components",
+  "main": "dist/app/bart.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "bart"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/bart",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

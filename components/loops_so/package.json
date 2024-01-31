@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/loops_so",
+  "version": "0.2.0",
+  "description": "Nexusstream Loops.so Components",
+  "main": "loops_so.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "loops_so"
+  ],
+  "homepage": "https://khulnasoft.com/apps/loops_so",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

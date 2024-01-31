@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/symbl_ai",
+  "version": "0.3.6",
+  "description": "Nexusstream Symbl_ai Components",
+  "main": "symbl_ai.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "symbl_ai"
+  ],
+  "homepage": "https://khulnasoft.com/apps/symbl_ai",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.9.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

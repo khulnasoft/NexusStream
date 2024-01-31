@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/quentn",
+  "version": "0.0.2",
+  "description": "Nexusstream Quentn Components",
+  "main": "quentn.app.mjs",
+  "keywords": [
+		"nexusstream",
+		"quentn"
+  ],
+  "homepage": "https://khulnasoft.com/apps/quentn",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

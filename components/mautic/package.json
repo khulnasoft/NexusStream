@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/mautic",
+  "version": "0.3.6",
+  "description": "Nexusstream Mautic Components",
+  "main": "mautic.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mautic"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mautic",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0",
+    "lodash-es": "^4.17.21"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

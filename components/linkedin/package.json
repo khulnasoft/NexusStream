@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/linkedin",
+  "version": "0.1.0",
+  "description": "Nexusstream Linkedin Components",
+  "main": "linkedin.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "linkedin"
+  ],
+  "homepage": "https://khulnasoft.com/apps/linkedin",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "axios": "^1.2.3",
+    "form-data": "^4.0.0"
+  }
+}

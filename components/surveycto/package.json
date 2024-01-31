@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/surveycto",
+  "version": "0.1.0",
+  "description": "Nexusstream SurveyCTO Components",
+  "main": "surveycto.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "surveycto"
+  ],
+  "homepage": "https://khulnasoft.com/apps/surveycto",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.6.0",
+    "xml-js": "^1.6.11"
+  }
+}

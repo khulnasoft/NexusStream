@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/ip2whois",
+  "version": "0.3.6",
+  "description": "Nexusstream Ip2whois Components",
+  "main": "ip2whois.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ip2whois"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ip2whois",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0"
+  }
+}

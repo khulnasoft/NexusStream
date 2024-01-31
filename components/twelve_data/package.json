@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/twelve_data",
+  "version": "0.0.3",
+  "description": "Nexusstream Twelve Data Components",
+  "main": "dist/app/twelve_data.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "twelve_data"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/twelve_data",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

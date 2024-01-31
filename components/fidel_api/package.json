@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/fidel_api",
+  "version": "0.1.0",
+  "description": "Nexusstream Fidel API Components",
+  "main": "fidel_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "fidel_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/fidel_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "crypto": "^1.0.1"
+  }
+}

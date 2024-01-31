@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/buy_me_a_coffee",
+  "version": "0.0.5",
+  "description": "Nexusstream Buy Me a Coffee Components",
+  "main": "dist/app/buy_me_a_coffee.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "buy_me_a_coffee"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/buy_me_a_coffee",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "@pipedream/types": "^0.1.4"
+  }
+}

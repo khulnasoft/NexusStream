@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/dexatel",
+  "version": "0.0.1",
+  "description": "Nexusstream Dexatel Components",
+  "main": "dexatel.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dexatel"
+  ],
+  "homepage": "https://khulnasoft.com/apps/dexatel",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

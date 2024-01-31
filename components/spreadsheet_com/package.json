@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/spreadsheet_com",
+  "version": "0.1.0",
+  "description": "Nexusstream Spreadsheet.com Components",
+  "main": "spreadsheet_com.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "spreadsheet_com"
+  ],
+  "homepage": "https://khulnasoft.com/apps/spreadsheet_com",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/forcemanager",
+  "version": "0.0.1",
+  "description": "Nexusstream ForceManager Components",
+  "main": "forcemanager.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "forcemanager"
+  ],
+  "homepage": "https://khulnasoft.com/apps/forcemanager",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

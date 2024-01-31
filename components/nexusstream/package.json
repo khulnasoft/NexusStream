@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/nexusstream",
+  "version": "0.4.2",
+  "description": "Nexusstream Nexusstream Components",
+  "main": "nexusstream.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nexusstream"
+  ],
+  "homepage": "https://khulnasoft.com/apps/nexusstream",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1",
+    "uuidv4": "^6.2.13"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/smugmug",
+  "version": "0.0.3",
+  "description": "Nexusstream Smugmug Components",
+  "main": "smugmug.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "smugmug"
+  ],
+  "homepage": "https://khulnasoft.com/apps/smugmug",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

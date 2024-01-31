@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/twitter_ads",
+  "version": "0.0.1",
+  "description": "Nexusstream Twitter Ads Components",
+  "main": "twitter_ads.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "twitter_ads"
+  ],
+  "homepage": "https://khulnasoft.com/apps/twitter_ads",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/time_tracker_by_ebillity",
+  "version": "0.0.2",
+  "description": "Nexusstream Time Tracker by eBillity Components",
+  "main": "dist/app/time_tracker_by_ebillity.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "time_tracker_by_ebillity"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/time_tracker_by_ebillity",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

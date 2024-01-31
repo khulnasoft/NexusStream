@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/confluent",
+  "version": "0.0.2",
+  "description": "Nexusstream Confluent Components",
+  "main": "dist/app/confluent.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "confluent"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/confluent",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@nexusstream/twitch_developer_app",
+  "version": "0.1.1",
+  "description": "Nexusstream Twitch Developer App Components",
+  "main": "dist/app/twitch_developer_app.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "twitch_developer_app"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/twitch_developer_app",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@pipedream/types": "^0.1.4"
+  }
+}

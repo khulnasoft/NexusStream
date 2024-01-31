@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/amazon_alexa",
+  "version": "0.1.0",
+  "description": "Nexusstream Amazon Alexa Components",
+  "main": "amazon_alexa.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "amazon_alexa"
+  ],
+  "homepage": "https://khulnasoft.com/apps/amazon_alexa",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.6.0"
+  }
+}

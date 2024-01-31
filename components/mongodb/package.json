@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/mongodb",
+  "version": "0.0.8",
+  "description": "Nexusstream MongoDB Components",
+  "main": "mongodb.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "mongo",
+    "mongodb"
+  ],
+  "homepage": "https://khulnasoft.com/apps/mongodb",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "mongodb": "^4.6.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/conveyor",
+  "version": "0.0.3",
+  "description": "Nexusstream Conveyor Components",
+  "main": "dist/app/conveyor.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "conveyor"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/conveyor",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

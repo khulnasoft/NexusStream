@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/congress_gov",
+  "version": "0.0.2",
+  "description": "Nexusstream Congress.gov Components",
+  "main": "dist/app/congress_gov.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "congress_gov"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/congress_gov",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

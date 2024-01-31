@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/whop",
+  "version": "0.1.0",
+  "description": "Nexusstream Whop Components",
+  "main": "whop.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "whop"
+  ],
+  "homepage": "https://khulnasoft.com/apps/whop",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

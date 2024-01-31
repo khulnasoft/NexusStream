@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/sparkpost",
+  "version": "0.0.1",
+  "description": "Nexusstream SparkPost Components",
+  "main": "sparkpost.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "sparkpost"
+  ],
+  "homepage": "https://khulnasoft.com/apps/sparkpost",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

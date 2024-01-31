@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/beehiiv",
+  "version": "0.0.5",
+  "description": "Nexusstream Beehiiv Components",
+  "main": "dist/app/beehiiv.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "beehiiv"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/beehiiv",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "@pipedream/types": "^0.1.4"
+  }
+}

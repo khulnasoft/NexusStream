@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/veriphone",
+  "version": "0.1.0",
+  "description": "Nexusstream Veriphone Components",
+  "main": "veriphone.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "veriphone"
+  ],
+  "homepage": "https://khulnasoft.com/apps/veriphone",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

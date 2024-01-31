@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/quaderno",
+  "version": "0.0.3",
+  "description": "Nexusstream Quaderno Components",
+  "main": "quaderno.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "quaderno"
+  ],
+  "homepage": "https://khulnasoft.com/apps/quaderno",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/onepagecrm",
+  "version": "0.1.0",
+  "description": "Nexusstream OnePageCRM Components",
+  "main": "onepagecrm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "onepagecrm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/onepagecrm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

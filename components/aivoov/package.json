@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/aivoov",
+  "version": "0.1.0",
+  "description": "Nexusstream AiVOOV Components",
+  "main": "aivoov.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "aivoov"
+  ],
+  "homepage": "https://khulnasoft.com/apps/aivoov",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "form-data": "^4.0.0"
+  }
+}

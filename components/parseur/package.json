@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/parseur",
+  "version": "0.0.2",
+  "description": "Nexusstream Parseur Components",
+  "main": "parseur.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "parseur"
+  ],
+  "homepage": "https://khulnasoft.com/apps/parseur",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

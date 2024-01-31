@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/ip2proxy",
+  "version": "0.3.6",
+  "description": "Nexusstream Ip2location Components",
+  "main": "ip2proxy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ip2proxy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ip2proxy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.9.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

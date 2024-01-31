@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/outseta",
+  "version": "0.1.0",
+  "description": "Nexusstream Outseta Components",
+  "main": "outseta.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "outseta"
+  ],
+  "homepage": "https://khulnasoft.com/apps/outseta",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "qs": "^6.11.1"
+  }
+}

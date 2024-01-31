@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/browsers",
+  "version": "1.0.2",
+  "description": "For using puppeeter or playwright in Nexusstream Node.js Code Steps. Includes the prebuilt binaries and specific versions for compatiblity with Nexusstream.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "nexusstream",
+    "puppeeter",
+    "playwright",
+    "chromium"
+  ],
+  "homepage": "https://github.com/KhulnaSoft/nexusstream/tree/master/packages/browsers",
+  "author": "Dylan Pierce <pierce@khulnasoft.com> (https://dylanjpierce.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@sparticuz/chromium": "112.0.2",
+    "puppeteer-core": "19.8.0",
+    "playwright-core": "1.32.3"
+  }
+}

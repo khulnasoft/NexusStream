@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/senta",
+  "version": "0.1.0",
+  "description": "Nexusstream Senta Components",
+  "main": "senta.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "senta"
+  ],
+  "homepage": "https://khulnasoft.com/apps/senta",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

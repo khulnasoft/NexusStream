@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/google_palm_api",
+  "version": "0.0.3",
+  "description": "Nexusstream Google PaLM Components",
+  "main": "google_palm_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_palm_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_palm_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@google-ai/generativelanguage": "^0.2.0",
+    "google-auth-library": "^8.8.0"
+  }
+}

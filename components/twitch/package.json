@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/twitch",
+  "version": "0.2.1",
+  "description": "Nexusstream Twitch Components",
+  "main": "twitch.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "twitch"
+  ],
+  "homepage": "https://khulnasoft.com/apps/twitch",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "crypto": "^1.0.1",
+    "qs": "^6.10.5",
+    "uuid": "^8.3.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/campayn",
+  "version": "0.0.2",
+  "description": "Nexusstream Campayn Components",
+  "main": "campayn.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "campayn"
+  ],
+  "homepage": "https://khulnasoft.com/apps/campayn",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0"
+  }
+}

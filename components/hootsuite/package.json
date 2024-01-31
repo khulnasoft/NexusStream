@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/hootsuite",
+  "version": "0.1.0",
+  "description": "Nexusstream Hootsuite Components",
+  "main": "hootsuite.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hootsuite"
+  ],
+  "homepage": "https://khulnasoft.com/apps/hootsuite",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "dayjs": "^1.11.7"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/clearly_defined",
+  "version": "0.0.1",
+  "description": "Nexusstream Clearly Defined Components",
+  "main": "clearly_defined.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "clearly_defined"
+  ],
+  "homepage": "https://khulnasoft.com/apps/clearly_defined",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

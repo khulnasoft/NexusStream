@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/hygraph",
+  "version": "0.0.2",
+  "description": "Nexusstream Hygraph Components",
+  "main": "dist/app/hygraph.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hygraph"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/hygraph",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

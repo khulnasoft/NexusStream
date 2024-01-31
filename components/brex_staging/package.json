@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/brex_staging",
+  "version": "0.0.3",
+  "description": "Nexusstream Brex Staging Components",
+  "main": "brex_staging.app.js",
+  "keywords": [
+    "nexusstream",
+    "brex_staging"
+  ],
+  "homepage": "https://khulnasoft.com/apps/brex_staging",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "crypto": "^1.0.1",
+    "uuid": "^8.3.2"
+  }
+}

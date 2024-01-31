@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/ez_texting",
+  "version": "0.0.2",
+  "description": "Nexusstream iHomefinder Components",
+  "main": "dist/app/ez_texting.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ez_texting"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/ez_texting",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

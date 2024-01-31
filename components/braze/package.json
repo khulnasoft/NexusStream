@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/braze",
+  "version": "0.0.2",
+  "description": "Nexusstream Braze Components",
+  "main": "dist/app/braze.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "braze"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/braze",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

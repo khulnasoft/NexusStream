@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/heysummit",
+  "version": "0.0.5",
+  "description": "Nexusstream HeySummit Components",
+  "main": "heysummit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "heysummit"
+  ],
+  "homepage": "https://khulnasoft.com/apps/heysummit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

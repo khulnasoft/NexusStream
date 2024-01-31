@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/givebutter",
+  "version": "0.3.5",
+  "description": "Nexusstream Givebutter Components",
+  "main": "givebutter.app.js",
+  "keywords": [
+    "nexusstream",
+    "givebutter"
+  ],
+  "homepage": "https://khulnasoft.com/apps/givebutter",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

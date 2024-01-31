@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/youtube_data_api_custom_app",
+  "version": "0.0.6",
+  "description": "Nexusstream Youtube Custom App Components",
+  "main": "youtube_data_api_custom_app.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "youtube_data_api_custom_app"
+  ],
+  "homepage": "https://khulnasoft.com/apps/youtube_data_api_custom_app",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@googleapis/youtube": "^6.0.0",
+    "got": "^12.5.1"
+  }
+}

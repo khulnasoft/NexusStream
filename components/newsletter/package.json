@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/newsletter",
+  "version": "0.0.2",
+  "description": "Nexusstream Newsletter Components",
+  "main": "dist/app/newsletter.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "newsletter"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/newsletter",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

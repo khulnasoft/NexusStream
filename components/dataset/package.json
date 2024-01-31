@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/dataset",
+  "version": "0.0.2",
+  "description": "Nexusstream DataSet Components",
+  "main": "dist/app/dataset.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dataset"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/dataset",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

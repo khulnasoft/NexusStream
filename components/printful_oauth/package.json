@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/printful_oauth",
+  "version": "0.0.4",
+  "description": "Nexusstream Printful (OAuth) Components",
+  "main": "printful_oauth.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "printful_oauth"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/printful_oauth",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  }
+}

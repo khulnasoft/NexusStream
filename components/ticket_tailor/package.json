@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/ticket_tailor",
+  "version": "0.0.2",
+  "description": "Nexusstream Ticket Tailor Components",
+  "main": "dist/app/ticket_tailor.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ticket_tailor"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ticket_tailor",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "crypto": "^1.0.1"
+  }
+}

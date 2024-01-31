@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/weworkbook",
+  "version": "0.0.4",
+  "description": "Nexusstream Weworkbook Components",
+  "main": "weworkbook.app.js",
+  "keywords": [
+    "nexusstream",
+    "weworkbook"
+  ],
+  "homepage": "https://khulnasoft.com/apps/weworkbook",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@nexusstream/google_tag_manager",
+  "version": "0.1.0",
+  "description": "Nexusstream Google Tag Manager Components",
+  "keywords": [
+    "nexusstream",
+    "google_tag_manager"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_tag_manager",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

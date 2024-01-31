@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/digitalriver",
+  "version": "0.1.0",
+  "description": "Nexusstream DigitalRiver Components",
+  "main": "digitalriver.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "digitalriver"
+  ],
+  "homepage": "https://khulnasoft.com/apps/digitalriver",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

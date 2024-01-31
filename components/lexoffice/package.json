@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/lexoffice",
+  "version": "0.0.2",
+  "description": "Nexusstream Lexoffice Components",
+  "main": "dist/app/lexoffice.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "lexoffice"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/lexoffice",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

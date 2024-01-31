@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/discourse",
+  "version": "0.1.1",
+  "description": "Nexusstream Discourse Components",
+  "main": "discourse.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "discourse"
+  ],
+  "homepage": "https://khulnasoft.com/apps/discourse",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "lodash.get": "^4.4.2",
+    "lodash.sortby": "^4.7.0",
+    "nanoid": "^4.0.1"
+  }
+}

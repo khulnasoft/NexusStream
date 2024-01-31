@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/google_tasks",
+  "version": "0.0.2",
+  "description": "Nexusstream Google Tasks Components",
+  "main": "google_tasks.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_tasks"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_tasks",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

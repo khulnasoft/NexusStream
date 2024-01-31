@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/labs64_netlicensing",
+  "version": "0.0.2",
+  "description": "Nexusstream Labs64 NetLicensing Components",
+  "main": "dist/app/labs64_netlicensing.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "labs64_netlicensing"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/labs64_netlicensing",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

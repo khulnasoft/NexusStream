@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/unbounce",
+  "version": "0.1.0",
+  "description": "Nexusstream Unbounce Components",
+  "main": "unbounce.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "unbounce"
+  ],
+  "homepage": "https://khulnasoft.com/apps/unbounce",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "moment": "^2.29.4",
+    "@pipedream/platform": "^1.5.1"
+  }
+}

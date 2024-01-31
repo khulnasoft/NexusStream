@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/facturadirecta",
+  "version": "0.0.2",
+  "description": "Nexusstream FacturaDirecta Components",
+  "main": "dist/app/facturadirecta.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "facturadirecta"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/facturadirecta",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/hostaway",
+  "version": "0.1.0",
+  "description": "Nexusstream Hostaway Components",
+  "main": "hostaway.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hostaway"
+  ],
+  "homepage": "https://khulnasoft.com/apps/hostaway",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

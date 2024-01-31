@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/ilovepdf",
+  "version": "0.1.0",
+  "description": "Nexusstream iLovePDF Components",
+  "main": "ilovepdf.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ilovepdf"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ilovepdf",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "1.5.1",
+    "form-data": "^4.0.0"
+  }
+}

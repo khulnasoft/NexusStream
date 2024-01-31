@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/sms_it",
+  "version": "0.0.2",
+  "description": "Nexusstream SMS-IT Components",
+  "main": "dist/app/sms_it.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "sms_it"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/sms_it",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

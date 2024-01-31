@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/ezeep_blue",
+  "version": "0.1.0",
+  "description": "Nexusstream ezeep Blue Components",
+  "main": "ezeep_blue.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ezeep_blue"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ezeep_blue",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0"
+  }
+}

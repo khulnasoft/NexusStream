@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/prodpad",
+  "version": "0.0.3",
+  "description": "Nexusstream ProdPad Components",
+  "main": "prodpad.app.mjs",
+  "keywords": [
+		"nexusstream",
+		"prodpad"
+  ],
+  "homepage": "https://khulnasoft.com/apps/prodpad",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

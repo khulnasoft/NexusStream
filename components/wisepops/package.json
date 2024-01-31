@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/wisepops",
+  "version": "0.0.2",
+  "description": "Nexusstream Wisepops Components",
+  "main": "wisepops.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "wisepops"
+  ],
+  "homepage": "https://khulnasoft.com/apps/wisepops",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0",
+    "node-forge": "^1.3.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

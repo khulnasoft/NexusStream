@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/aweber",
+  "version": "0.3.7",
+  "description": "Nexusstream Aweber Components",
+  "main": "aweber.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "aweber"
+  ],
+  "homepage": "https://khulnasoft.com/apps/aweber",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "@pipedream/platform": "^0.8.1"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

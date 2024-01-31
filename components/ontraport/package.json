@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/ontraport",
+  "version": "0.0.2",
+  "description": "Nexusstream Ontraport Components",
+  "main": "ontraport.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "ontraport"
+  ],
+  "homepage": "https://khulnasoft.com/apps/ontraport",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

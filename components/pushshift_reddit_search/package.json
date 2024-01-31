@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/pushshift_reddit_search",
+  "version": "0.0.5",
+  "description": "Nexusstream Pushshift Reddit Search Components",
+  "main": "pushshift_reddit_search.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pushshift_reddit_search",
+    "pushshift"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pushshift_reddit_search",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

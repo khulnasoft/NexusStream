@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/anthropic",
+  "version": "0.0.6",
+  "description": "Nexusstream Anthropic (Claude) Components",
+  "main": "app/anthropic.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "anthropic"
+  ],
+  "homepage": "https://khulnasoft.com/apps/anthropic",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

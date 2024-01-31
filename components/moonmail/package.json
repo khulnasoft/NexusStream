@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/moonmail",
+  "version": "0.0.2",
+  "description": "Nexusstream MoonMail Components",
+  "main": "dist/app/moonmail.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "moonmail"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/moonmail",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

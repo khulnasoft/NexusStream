@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/cliniko",
+  "version": "0.0.3",
+  "description": "Nexusstream Cliniko Components",
+  "main": "cliniko.app.js",
+  "keywords": [
+    "nexusstream",
+    "cliniko"
+  ],
+  "homepage": "https://khulnasoft.com/apps/cliniko",
+  "author": "Adrian Edwards <adrian@ageuphealth.com.au> (https://ageuphealth.com.au/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.8.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

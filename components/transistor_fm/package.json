@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/transistor_fm",
+  "version": "1.0.1",
+  "description": "Nexusstream Transistor.fm Components",
+  "main": "transistor_fm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "transistor_fm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/transistor_fm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "form-data": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

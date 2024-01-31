@@ -1,0 +1,17 @@
+{
+  "name": "@nexusstream/bandwidth",
+  "version": "1.0.3",
+  "description": "Nexusstream Bandwidth Components",
+  "main": "index.js",
+  "keywords": [
+    "nexusstream",
+    "bandwidth"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Bandwidth",
+  "dependencies": {
+    "@bandwidth/messaging": "^4.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/missive",
+  "version": "0.1.0",
+  "description": "Nexusstream Missive Components",
+  "main": "missive.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "missive"
+  ],
+  "homepage": "https://khulnasoft.com/apps/missive",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

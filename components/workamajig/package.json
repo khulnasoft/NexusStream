@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/workamajig",
+  "version": "0.1.0",
+  "description": "Nexusstream Workamajig Components",
+  "main": "workamajig.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "workamajig"
+  ],
+  "homepage": "https://khulnasoft.com/apps/workamajig",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

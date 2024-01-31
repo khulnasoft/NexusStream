@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/zoho_bigin",
+  "version": "0.1.0",
+  "description": "Nexusstream Zoho Bigin Components",
+  "main": "zoho_bigin.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zoho_bigin"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zoho_bigin",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/hubspot_developer_app",
+  "version": "0.0.2",
+  "description": "Nexusstream HubSpot (Developer App) Components",
+  "main": "dist/app/hubspot_developer_app.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hubspot_developer_app"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/hubspot_developer_app",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

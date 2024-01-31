@@ -1,0 +1,14 @@
+{
+  "name": "@nexusstream/zoho_people",
+  "version": "0.1.0",
+  "description": "Nexusstream Zoho People Components",
+  "keywords": [
+    "nexusstream",
+    "zoho_people"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zoho_people",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

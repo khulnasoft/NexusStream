@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/zoho_survey",
+  "version": "0.1.0",
+  "description": "Nexusstream Zoho Survey Components",
+  "main": "zoho_survey.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "zoho_survey"
+  ],
+  "homepage": "https://khulnasoft.com/apps/zoho_survey",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

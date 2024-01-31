@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/gleap",
+  "version": "0.1.0",
+  "description": "Nexusstream Gleap Components",
+  "main": "gleap.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "gleap"
+  ],
+  "homepage": "https://khulnasoft.com/apps/gleap",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

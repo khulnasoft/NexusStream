@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/nusii_proposals",
+  "version": "0.0.2",
+  "description": "Nexusstream Nusii Proposals Components",
+  "main": "dist/app/nusii_proposals.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nusii_proposals"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/nusii_proposals",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

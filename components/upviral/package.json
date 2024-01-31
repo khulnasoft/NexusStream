@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/upviral",
+  "version": "0.1.0",
+  "description": "Nexusstream UpViral Components",
+  "main": "upviral.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "upviral"
+  ],
+  "homepage": "https://khulnasoft.com/apps/upviral",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0"
+  }
+}

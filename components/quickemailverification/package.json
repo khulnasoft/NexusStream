@@ -1,0 +1,24 @@
+{
+  "name": "@nexusstream/quickemailverification",
+  "version": "0.0.4",
+  "description": "Nexusstream QuickEmailVerification Components",
+  "main": "dist/app/quickemailverification.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "quickemailverification"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/quickemailverification",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@pipedream/types": "^0.1.4"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.0"
+  }
+}

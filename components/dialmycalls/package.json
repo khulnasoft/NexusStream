@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/dialmycalls",
+  "version": "0.0.2",
+  "description": "Nexusstream DialMyCalls Components",
+  "main": "dist/app/dialmycalls.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dialmycalls"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/dialmycalls",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

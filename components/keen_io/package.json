@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/keen_io",
+  "version": "0.0.2",
+  "description": "Nexusstream Keen.io Components",
+  "main": "dist/app/keen_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "keen_io"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/keen_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/highlevel_oauth",
+  "version": "0.0.1",
+  "description": "Nexusstream HighLevel (OAuth) Components",
+  "main": "dist/app/highlevel_oauth.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "highlevel_oauth"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/highlevel_oauth",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

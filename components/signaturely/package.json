@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/signaturely",
+  "version": "0.1.0",
+  "description": "Nexusstream Signaturely Components",
+  "main": "signaturely.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "signaturely"
+  ],
+  "homepage": "https://khulnasoft.com/apps/signaturely",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

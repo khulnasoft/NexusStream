@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/google_ads",
+  "version": "0.1.0",
+  "description": "Nexusstream Google Ads Components",
+  "main": "google_ads.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_ads"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_ads",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "crypto": "^1.0.1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/voilanorbert",
+  "version": "0.0.2",
+  "description": "Nexusstream VoilaNorbert Components",
+  "main": "dist/app/voilanorbert.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "voilanorbert"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/voilanorbert",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

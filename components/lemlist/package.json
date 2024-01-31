@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/lemlist",
+  "version": "0.0.3",
+  "description": "Nexusstream Lemlist Components",
+  "main": "dist/app/lemlist.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "lemlist"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/lemlist",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

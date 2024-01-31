@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/algomo",
+  "version": "0.1.0",
+  "description": "Nexusstream Algomo Components",
+  "main": "algomo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "algomo"
+  ],
+  "homepage": "https://khulnasoft.com/apps/algomo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

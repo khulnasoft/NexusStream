@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/picky_assist",
+  "version": "0.0.4",
+  "description": "Nexusstream Picky Assist Components",
+  "main": "picky_assist.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "picky_assist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/picky_assist",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}

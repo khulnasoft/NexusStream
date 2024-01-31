@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/feedbin",
+  "version": "0.0.4",
+  "description": "Nexusstream Feedbin Components",
+  "main": "feedbin.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "feedbin"
+  ],
+  "homepage": "https://khulnasoft.com/apps/feedbin",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

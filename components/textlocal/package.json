@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/textlocal",
+  "version": "0.0.3",
+  "description": "Nexusstream Textlocal Components",
+  "main": "textlocal.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "textlocal"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/textlocal",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/postmark",
+  "version": "0.1.0",
+  "description": "Nexusstream Postmark Components",
+  "main": "postmark.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "postmark"
+  ],
+  "homepage": "https://khulnasoft.com/apps/postmark",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

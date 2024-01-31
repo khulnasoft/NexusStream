@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/starshipit",
+  "version": "0.1.0",
+  "description": "Nexusstream Starshipit Components",
+  "main": "starshipit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "starshipit"
+  ],
+  "homepage": "https://khulnasoft.com/apps/starshipit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/generated_photos",
+  "version": "0.0.1",
+  "description": "Nexusstream Generated_photos Components",
+  "main": "generated_photos.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "generated_photos"
+  ],
+  "homepage": "https://khulnasoft.com/apps/generated_photos",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0"
+  }
+}

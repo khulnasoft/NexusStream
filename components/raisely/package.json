@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/raisely",
+  "version": "0.1.0",
+  "description": "Nexusstream Raisely Components",
+  "main": "raisely.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "raisely"
+  ],
+  "homepage": "https://khulnasoft.com/apps/raisely",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

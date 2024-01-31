@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/calendly_v2",
+  "version": "1.1.4",
+  "description": "Nexusstream Calendly V2 Components",
+  "main": "calendly_v2.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "calendly"
+  ],
+  "homepage": "https://khulnasoft.com/apps/calendly",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "url": "^0.11.0"
+  }
+}

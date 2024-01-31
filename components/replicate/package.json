@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/replicate",
+  "version": "0.1.0",
+  "description": "Nexusstream Replicate Components",
+  "main": "replicate.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "replicate"
+  ],
+  "homepage": "https://khulnasoft.com/apps/replicate",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

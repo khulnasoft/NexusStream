@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/clientify",
+  "version": "0.1.0",
+  "description": "Nexusstream Clientify Components",
+  "main": "clientify.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "clientify"
+  ],
+  "homepage": "https://khulnasoft.com/apps/clientify",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

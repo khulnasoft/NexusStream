@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/convenia",
+  "version": "0.1.0",
+  "description": "Nexusstream Convenia Components",
+  "main": "convenia.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "convenia"
+  ],
+  "homepage": "https://khulnasoft.com/apps/convenia",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

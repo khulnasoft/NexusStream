@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/holded",
+  "version": "0.0.3",
+  "description": "Nexusstream Holded Components",
+  "main": "holded.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "holded"
+  ],
+  "homepage": "https://khulnasoft.com/apps/holded",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

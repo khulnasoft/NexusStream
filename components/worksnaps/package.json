@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/worksnaps",
+  "version": "0.0.3",
+  "description": "Nexusstream Worksnaps Components",
+  "main": "dist/app/worksnaps.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "worksnaps"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/worksnaps",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

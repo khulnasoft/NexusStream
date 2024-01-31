@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/snowflake",
+  "version": "0.9.3",
+  "description": "Nexusstream Snowflake Components",
+  "main": "snowflake.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "snowflake"
+  ],
+  "homepage": "https://khulnasoft.com/apps/snowflake",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "asn1.js": "^5.0.0",
+    "lodash-es": "^4.17.21",
+    "snowflake-sdk": "^1.6.10",
+    "uuid": "^8.3.2"
+  }
+}

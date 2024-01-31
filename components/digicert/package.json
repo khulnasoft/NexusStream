@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/digicert",
+  "version": "0.0.3",
+  "description": "Nexusstream DigiCert Components",
+  "main": "dist/app/digicert.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "digicert"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/digicert",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

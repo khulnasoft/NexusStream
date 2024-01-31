@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/cyfe",
+  "version": "0.0.2",
+  "description": "Nexusstream Cyfe Components",
+  "main": "dist/app/cyfe.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cyfe"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/cyfe",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

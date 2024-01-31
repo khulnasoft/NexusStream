@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/florm",
+  "version": "0.0.1",
+  "description": "Nexusstream Florm Components",
+  "main": "florm.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "florm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/florm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

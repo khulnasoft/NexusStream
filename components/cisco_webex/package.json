@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/cisco_webex",
+  "version": "0.4.0",
+  "description": "Nexusstream Cisco_webex Components",
+  "main": "cisco_webex.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "cisco_webex"
+  ],
+  "homepage": "https://khulnasoft.com/apps/cisco_webex",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "crypto": "^1.0.1",
+    "uuid": "^8.3.2"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

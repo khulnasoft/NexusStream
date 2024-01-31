@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/firmao",
+  "version": "0.1.0",
+  "description": "Nexusstream Firmao Components",
+  "main": "firmao.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "firmao"
+  ],
+  "homepage": "https://khulnasoft.com/apps/firmao",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

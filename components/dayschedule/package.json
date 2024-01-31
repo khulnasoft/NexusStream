@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/dayschedule",
+  "version": "0.0.2",
+  "description": "Nexusstream DaySchedule Components",
+  "main": "dayschedule.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dayschedule"
+  ],
+  "homepage": "https://khulnasoft.com/apps/dayschedule",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

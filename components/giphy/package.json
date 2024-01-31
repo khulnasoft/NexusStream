@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/giphy",
+  "version": "0.3.5",
+  "description": "Nexusstream Giphy Components",
+  "main": "giphy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "giphy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/giphy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0",
+    "form-data": "^4.0.0"
+  }
+}

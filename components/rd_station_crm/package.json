@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/rd_station_crm",
+  "version": "0.0.4",
+  "description": "Nexusstream RD Station CRM Components",
+  "main": "rd_station_crm.app.js",
+  "keywords": [
+    "nexusstream",
+    "rd_station_crm"
+  ],
+  "homepage": "https://khulnasoft.com/apps/rd_station_crm",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

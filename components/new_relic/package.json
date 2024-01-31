@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/new-relic",
+  "version": "0.0.4",
+  "description": "Nexusstream New Relic Components",
+  "main": "new_relic.app.js",
+  "keywords": [
+    "nexusstream",
+    "new relic"
+  ],
+  "homepage": "https://khulnasoft.com/apps/new-relic",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.0"
+  }
+}

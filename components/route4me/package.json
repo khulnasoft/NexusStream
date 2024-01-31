@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/route4me",
+  "version": "0.0.2",
+  "description": "Nexusstream Route4Me Components",
+  "main": "dist/app/route4me.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "route4me"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/route4me",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

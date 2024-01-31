@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/pdfmonkey",
+  "version": "0.0.3",
+  "description": "Nexusstream PDFMonkey Components",
+  "main": "dist/app/pdfmonkey.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "pdfmonkey"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/pdfmonkey",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

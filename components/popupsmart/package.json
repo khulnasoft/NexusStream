@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/popupsmart",
+  "version": "0.0.1",
+  "description": "Nexusstream Popupsmart Components",
+  "main": "dist/app/popupsmart.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "popupsmart"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/popupsmart",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

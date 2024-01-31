@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/flodesk",
+  "version": "0.1.0",
+  "description": "Nexusstream Flodesk Components",
+  "main": "flodesk.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "flodesk"
+  ],
+  "homepage": "https://khulnasoft.com/apps/flodesk",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/practitest",
+  "version": "0.0.2",
+  "description": "Nexusstream PractiTest Components",
+  "main": "dist/app/practitest.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "practitest"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/practitest",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "@pipedream/types": "^0.1.4"
+  }
+}

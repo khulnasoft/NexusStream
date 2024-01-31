@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/engage",
+  "version": "0.0.2",
+  "description": "Nexusstream Engage Components",
+  "main": "dist/app/engage.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "engage"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/engage",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

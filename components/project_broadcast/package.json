@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/project_broadcast",
+  "version": "0.1.1",
+  "description": "Nexusstream Project Broadcast Components",
+  "main": "project_broadcast.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "project_broadcast"
+  ],
+  "homepage": "https://khulnasoft.com/apps/project_broadcast",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

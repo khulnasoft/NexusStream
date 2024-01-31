@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/bill",
+  "version": "0.0.2",
+  "description": "Nexusstream BILL Components",
+  "main": "dist/app/bill.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "bill"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/bill",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

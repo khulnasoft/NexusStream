@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/logsnag",
+  "version": "0.0.2",
+  "description": "Nexusstream LogSnag Components",
+  "main": "dist/app/logsnag.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "logsnag"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/logsnag",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

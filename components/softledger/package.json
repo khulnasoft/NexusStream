@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/softledger",
+  "version": "0.0.2",
+  "description": "Nexusstream SoftLedger Components",
+  "main": "dist/app/softledger.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "softledger"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/softledger",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

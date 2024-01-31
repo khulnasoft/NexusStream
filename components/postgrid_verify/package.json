@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/postgrid_verify",
+  "version": "0.1.0",
+  "description": "Nexusstream PostGrid Verify Components",
+  "main": "postgrid_verify.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "postgrid_verify"
+  ],
+  "homepage": "https://khulnasoft.com/apps/postgrid_verify",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

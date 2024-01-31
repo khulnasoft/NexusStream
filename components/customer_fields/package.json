@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/customer_fields",
+  "version": "0.1.0",
+  "description": "Nexusstream Customer Fields Components",
+  "main": "customer_fields.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "customer_fields"
+  ],
+  "homepage": "https://khulnasoft.com/apps/customer_fields",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

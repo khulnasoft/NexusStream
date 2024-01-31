@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/esendex",
+  "version": "0.0.2",
+  "description": "Nexusstream Esendex Components",
+  "main": "dist/app/esendex.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "esendex"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/esendex",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

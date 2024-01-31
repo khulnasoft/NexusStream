@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/orca_scan",
+  "version": "0.1.0",
+  "description": "Nexusstream Orca Scan Components",
+  "main": "orca_scan.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "orca_scan"
+  ],
+  "homepage": "https://khulnasoft.com/apps/orca_scan",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

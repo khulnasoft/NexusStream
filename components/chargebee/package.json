@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/chargebee",
+  "version": "0.0.1",
+  "description": "Nexusstream Chargebee Components",
+  "main": "chargebee.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "chargebee"
+  ],
+  "homepage": "https://khulnasoft.com/apps/chargebee",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.1",
+    "chargebee": "^2.22.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

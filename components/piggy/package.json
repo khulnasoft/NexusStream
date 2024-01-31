@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/piggy",
+  "version": "0.1.0",
+  "description": "Nexusstream Piggy Components",
+  "main": "piggy.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "piggy"
+  ],
+  "homepage": "https://khulnasoft.com/apps/piggy",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

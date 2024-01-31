@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/plasmic",
+  "version": "0.0.2",
+  "description": "Nexusstream Plasmic Components",
+  "main": "dist/app/plasmic.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "plasmic"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/plasmic",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

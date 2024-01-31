@@ -1,0 +1,22 @@
+{
+  "name": "@nexusstream/persistiq",
+  "version": "0.0.4",
+  "description": "Nexusstream PersistIQ Components",
+  "main": "dist/app/persistiq.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "persistiq"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/persistiq",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "@pipedream/types": "^0.1.4"
+  }
+}

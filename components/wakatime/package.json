@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/wakatime",
+  "version": "0.0.3",
+  "description": "Nexusstream WakaTime Components",
+  "main": "dist/app/wakatime.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "wakatime"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/wakatime",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

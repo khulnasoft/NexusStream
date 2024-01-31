@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/discord_webhook",
+  "version": "1.1.0",
+  "description": "Nexusstream Discord_Webook Components",
+  "main": "discord_webhook.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "discord_webhook"
+  ],
+  "homepage": "https://khulnasoft.com/apps/discord_webhook",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.4.0",
+    "form-data": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

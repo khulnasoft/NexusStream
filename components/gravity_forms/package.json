@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/gravity_forms",
+  "version": "0.1.0",
+  "description": "Nexusstream Gravity Forms Components",
+  "main": "gravity_forms.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "gravity_forms"
+  ],
+  "homepage": "https://khulnasoft.com/apps/gravity_forms",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

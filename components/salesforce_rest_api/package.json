@@ -1,0 +1,25 @@
+{
+  "name": "@nexusstream/salesforce_rest_api",
+  "version": "1.0.4",
+  "description": "Nexusstream Salesforce (REST API) Components",
+  "main": "salesforce_rest_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "salesforce_rest_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/salesforce_rest_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "fast-xml-parser": "^4.3.2",
+    "handlebars": "^4.7.7",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "salesforce-webhooks": "^1.1.11",
+    "uuid": "^9.0.1"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

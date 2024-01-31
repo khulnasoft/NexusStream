@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/triggercmd",
+  "version": "0.0.4",
+  "description": "Nexusstream TRIGGERcmd Components",
+  "main": "dist/app/triggercmd.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "triggercmd"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/triggercmd",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

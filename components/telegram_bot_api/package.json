@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/telegram_bot_api",
+  "version": "0.3.11",
+  "description": "Nexusstream Telegram_bot_api Components",
+  "main": "telegram_bot_api.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "telegram_bot_api"
+  ],
+  "homepage": "https://khulnasoft.com/apps/telegram_bot_api",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.9.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "uuid": "^8.3.2"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

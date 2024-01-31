@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/call_fire",
+  "version": "0.0.2",
+  "description": "Nexusstream CallFire Components",
+  "main": "dist/app/call_fire.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "call_fire"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/call_fire",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/click2mail2",
+  "version": "0.1.0",
+  "description": "Nexusstream Click2Mail Components",
+  "main": "click2mail2.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "click2mail2"
+  ],
+  "homepage": "https://khulnasoft.com/apps/click2mail2",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
+

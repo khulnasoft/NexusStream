@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/hive",
+  "version": "0.1.0",
+  "description": "Nexusstream Hive Components",
+  "main": "hive.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "hive"
+  ],
+  "homepage": "https://khulnasoft.com/apps/hive",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "moment": "^2.29.4"
+  }
+}

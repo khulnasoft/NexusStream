@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/superphone",
+  "version": "0.1.0",
+  "description": "Nexusstream SuperPhone Components",
+  "main": "superphone.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "superphone"
+  ],
+  "homepage": "https://khulnasoft.com/apps/superphone",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

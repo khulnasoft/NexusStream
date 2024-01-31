@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/roll",
+  "version": "0.0.3",
+  "description": "Nexusstream Roll Components",
+  "main": "roll.app.js",
+  "keywords": [
+    "nexusstream",
+    "roll"
+  ],
+  "homepage": "https://khulnasoft.com/apps/roll",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "graphql-request": "^5.1.0",
+    "graphql": ">=14.0.0 <15.0.0 || >=15.0.0 <16.0.0 || >=16.0.0 <17.0.0 || ^16.8.1",
+    "moment": "^2.29.4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@nexusstream/postgresql",
+  "version": "0.1.0",
+  "description": "Nexusstream PostgreSQL Components",
+  "main": "postgresql.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "postgresql"
+  ],
+  "homepage": "https://khulnasoft.com/apps/postgresql",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "pg": "^8.7.1",
+    "pg-format": "^1.0.4",
+    "typescript": "^4.6.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "dtslint": "^4.2.1"
+  }
+}

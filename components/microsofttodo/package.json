@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/microsofttodo",
+  "version": "0.2.0",
+  "description": "Nexusstream Microsoft To Do Components",
+  "main": "microsofttodo.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "microsofttodo"
+  ],
+  "homepage": "https://khulnasoft.com/apps/microsofttodo",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

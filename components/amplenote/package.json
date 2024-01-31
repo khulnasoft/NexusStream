@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/amplenote",
+  "version": "0.0.3",
+  "description": "Nexusstream Amplenote Components",
+  "main": "dist/app/amplenote.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "amplenote"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/amplenote",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  }
+}

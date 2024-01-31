@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/knack",
+  "version": "0.0.4",
+  "description": "Nexusstream Knack Components",
+  "main": "knack.app.js",
+  "keywords": [
+    "nexusstream",
+    "knack"
+  ],
+  "homepage": "https://khulnasoft.com/apps/knack",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0"
+  }
+}

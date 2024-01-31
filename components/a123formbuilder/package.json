@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/a123formbuilder",
+  "version": "0.0.3",
+  "description": "Nexusstream 123FormBuilder Components",
+  "main": "a123formbuilder.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "a123formbuilder"
+  ],
+  "homepage": "https://khulnasoft.com/apps/a123formbuilder",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1"
+  }
+}

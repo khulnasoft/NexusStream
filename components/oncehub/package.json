@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/oncehub",
+  "version": "0.1.0",
+  "description": "Nexusstream OnceHub Components",
+  "main": "oncehub.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "oncehub"
+  ],
+  "homepage": "https://khulnasoft.com/apps/oncehub",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.3.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/publisherkit",
+  "version": "0.0.1",
+  "description": "Nexusstream PublisherKit Components",
+  "main": "publisherkit.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "publisherkit"
+  ],
+  "homepage": "https://khulnasoft.com/apps/publisherkit",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

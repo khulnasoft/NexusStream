@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/iauditor_by_safetyculture",
+  "version": "0.1.0",
+  "description": "Nexusstream iAuditor by SafetyCulture Components",
+  "main": "iauditor_by_safetyculture.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "iauditor_by_safetyculture"
+  ],
+  "homepage": "https://khulnasoft.com/apps/iauditor_by_safetyculture",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "lodash.pickby": "^4.6.0"
+  }
+}

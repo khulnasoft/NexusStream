@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/eodhd_apis",
+  "version": "0.0.2",
+  "description": "Nexusstream EODHD APIs Components",
+  "main": "eodhd_apis.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "eodhd_apis"
+  ],
+  "homepage": "https://khulnasoft.com/apps/eodhd_apis",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

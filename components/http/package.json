@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/http",
+  "version": "0.4.1",
+  "description": "Nexusstream Http Components",
+  "main": "http.app.js",
+  "keywords": [
+    "nexusstream",
+    "http"
+  ],
+  "homepage": "https://khulnasoft.com/apps/http",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "object-hash": "^3.0.0"
+  }
+}

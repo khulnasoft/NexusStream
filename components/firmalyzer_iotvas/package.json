@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/firmalyzer_iotvas",
+  "version": "0.0.2",
+  "description": "Nexusstream Firmalyzer IoTVAS API Components",
+  "main": "dist/app/firmalyzer_iotvas.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "firmalyzer_iotvas"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/firmalyzer_iotvas",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

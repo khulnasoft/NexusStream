@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/codereadr",
+  "version": "0.1.0",
+  "description": "Nexusstream CodeREADr Components",
+  "main": "codereadr.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "codereadr"
+  ],
+  "homepage": "https://khulnasoft.com/apps/codereadr",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1",
+    "xml2json-light": "^1.0.6"
+  }
+}

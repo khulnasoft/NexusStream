@@ -1,0 +1,122 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.AttributeValue = exports.ShardIteratorType = exports.TrimmedDataAccessException = exports.LimitExceededException = exports.OperationType = exports.ExpiredIteratorException = exports.ResourceNotFoundException = exports.InternalServerError = exports.StreamViewType = exports.StreamStatus = exports.KeyType = void 0;
+const DynamoDBStreamsServiceException_1 = require("./DynamoDBStreamsServiceException");
+exports.KeyType = {
+    HASH: "HASH",
+    RANGE: "RANGE",
+};
+exports.StreamStatus = {
+    DISABLED: "DISABLED",
+    DISABLING: "DISABLING",
+    ENABLED: "ENABLED",
+    ENABLING: "ENABLING",
+};
+exports.StreamViewType = {
+    KEYS_ONLY: "KEYS_ONLY",
+    NEW_AND_OLD_IMAGES: "NEW_AND_OLD_IMAGES",
+    NEW_IMAGE: "NEW_IMAGE",
+    OLD_IMAGE: "OLD_IMAGE",
+};
+class InternalServerError extends DynamoDBStreamsServiceException_1.DynamoDBStreamsServiceException {
+    constructor(opts) {
+        super({
+            name: "InternalServerError",
+            $fault: "server",
+            ...opts,
+        });
+        this.name = "InternalServerError";
+        this.$fault = "server";
+        Object.setPrototypeOf(this, InternalServerError.prototype);
+    }
+}
+exports.InternalServerError = InternalServerError;
+class ResourceNotFoundException extends DynamoDBStreamsServiceException_1.DynamoDBStreamsServiceException {
+    constructor(opts) {
+        super({
+            name: "ResourceNotFoundException",
+            $fault: "client",
+            ...opts,
+        });
+        this.name = "ResourceNotFoundException";
+        this.$fault = "client";
+        Object.setPrototypeOf(this, ResourceNotFoundException.prototype);
+    }
+}
+exports.ResourceNotFoundException = ResourceNotFoundException;
+class ExpiredIteratorException extends DynamoDBStreamsServiceException_1.DynamoDBStreamsServiceException {
+    constructor(opts) {
+        super({
+            name: "ExpiredIteratorException",
+            $fault: "client",
+            ...opts,
+        });
+        this.name = "ExpiredIteratorException";
+        this.$fault = "client";
+        Object.setPrototypeOf(this, ExpiredIteratorException.prototype);
+    }
+}
+exports.ExpiredIteratorException = ExpiredIteratorException;
+exports.OperationType = {
+    INSERT: "INSERT",
+    MODIFY: "MODIFY",
+    REMOVE: "REMOVE",
+};
+class LimitExceededException extends DynamoDBStreamsServiceException_1.DynamoDBStreamsServiceException {
+    constructor(opts) {
+        super({
+            name: "LimitExceededException",
+            $fault: "client",
+            ...opts,
+        });
+        this.name = "LimitExceededException";
+        this.$fault = "client";
+        Object.setPrototypeOf(this, LimitExceededException.prototype);
+    }
+}
+exports.LimitExceededException = LimitExceededException;
+class TrimmedDataAccessException extends DynamoDBStreamsServiceException_1.DynamoDBStreamsServiceException {
+    constructor(opts) {
+        super({
+            name: "TrimmedDataAccessException",
+            $fault: "client",
+            ...opts,
+        });
+        this.name = "TrimmedDataAccessException";
+        this.$fault = "client";
+        Object.setPrototypeOf(this, TrimmedDataAccessException.prototype);
+    }
+}
+exports.TrimmedDataAccessException = TrimmedDataAccessException;
+exports.ShardIteratorType = {
+    AFTER_SEQUENCE_NUMBER: "AFTER_SEQUENCE_NUMBER",
+    AT_SEQUENCE_NUMBER: "AT_SEQUENCE_NUMBER",
+    LATEST: "LATEST",
+    TRIM_HORIZON: "TRIM_HORIZON",
+};
+var AttributeValue;
+(function (AttributeValue) {
+    AttributeValue.visit = (value, visitor) => {
+        if (value.S !== undefined)
+            return visitor.S(value.S);
+        if (value.N !== undefined)
+            return visitor.N(value.N);
+        if (value.B !== undefined)
+            return visitor.B(value.B);
+        if (value.SS !== undefined)
+            return visitor.SS(value.SS);
+        if (value.NS !== undefined)
+            return visitor.NS(value.NS);
+        if (value.BS !== undefined)
+            return visitor.BS(value.BS);
+        if (value.M !== undefined)
+            return visitor.M(value.M);
+        if (value.L !== undefined)
+            return visitor.L(value.L);
+        if (value.NULL !== undefined)
+            return visitor.NULL(value.NULL);
+        if (value.BOOL !== undefined)
+            return visitor.BOOL(value.BOOL);
+        return visitor._(value.$unknown[0], value.$unknown[1]);
+    };
+})(AttributeValue = exports.AttributeValue || (exports.AttributeValue = {}));

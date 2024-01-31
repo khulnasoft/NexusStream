@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/respond_io",
+  "version": "0.0.1",
+  "description": "Nexusstream Respond.io Components",
+  "main": "dist/app/respond_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "respond_io"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/respond_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

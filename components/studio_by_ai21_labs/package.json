@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/studio_by_ai21_labs",
+  "version": "0.0.2",
+  "description": "Nexusstream Studio by AI21 Labs Components",
+  "main": "dist/app/studio_by_ai21_labs.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "studio_by_ai21_labs"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/studio_by_ai21_labs",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

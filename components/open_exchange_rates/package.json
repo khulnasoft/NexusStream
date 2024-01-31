@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/open_exchange_rates",
+  "version": "0.1.0",
+  "description": "Nexusstream Open Exchange Rates Components",
+  "main": "open_exchange_rates.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "open_exchange_rates"
+  ],
+  "homepage": "https://khulnasoft.com/apps/open_exchange_rates",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

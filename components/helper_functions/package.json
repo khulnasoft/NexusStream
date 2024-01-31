@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/helper_functions",
+  "version": "0.3.13",
+  "description": "Nexusstream Helper_functions Components",
+  "main": "helper_functions.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "helper_functions"
+  ],
+  "homepage": "https://khulnasoft.com/apps/helper_functions",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1",
+    "streamifier": "^0.1.1",
+    "xml-js": "^1.6.11"
+  }
+}

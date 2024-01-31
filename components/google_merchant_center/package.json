@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/google_merchant_center",
+  "version": "0.1.0",
+  "description": "Nexusstream Google Merchant Center Components",
+  "main": "google_merchant_center.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_merchant_center"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_merchant_center",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

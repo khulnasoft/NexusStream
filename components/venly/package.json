@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/venly",
+  "version": "0.0.1",
+  "description": "Nexusstream Venly Components",
+  "main": "venly.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "venly"
+  ],
+  "homepage": "https://khulnasoft.com/apps/venly",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

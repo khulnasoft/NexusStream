@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/nocodb",
+  "version": "0.0.5",
+  "description": "Nexusstream Nocodb Components",
+  "main": "nocodb.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "nocodb"
+  ],
+  "homepage": "https://khulnasoft.com/apps/nocodb",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.0",
+    "moment": "^2.29.4",
+    "nocodb-sdk": "^0.92.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

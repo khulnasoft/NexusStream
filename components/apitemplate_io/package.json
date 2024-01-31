@@ -1,0 +1,21 @@
+{
+  "name": "@nexusstream/apitemplate_io",
+  "version": "0.0.4",
+  "description": "Nexusstream APITemplate.io Components",
+  "main": "dist/app/apitemplate_io.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "apitemplate_io"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/apitemplate_io",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.1.1"
+  }
+}

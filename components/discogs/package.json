@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/discogs",
+  "version": "0.1.0",
+  "description": "Nexusstream Discogs Components",
+  "main": "discogs.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "discogs"
+  ],
+  "homepage": "https://khulnasoft.com/apps/discogs",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}
+

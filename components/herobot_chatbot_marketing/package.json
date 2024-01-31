@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/herobot_chatbot_marketing",
+  "version": "0.0.1",
+  "description": "Nexusstream HeroBot Chatbot Marketing Components",
+  "main": "herobot_chatbot_marketing.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "herobot_chatbot_marketing"
+  ],
+  "homepage": "https://khulnasoft.com/apps/herobot_chatbot_marketing",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@nexusstream/dokan",
+  "version": "0.0.2",
+  "description": "Nexusstream Dokan Components",
+  "main": "dist/app/dokan.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dokan"
+  ],
+  "files": ["dist"],
+  "homepage": "https://khulnasoft.com/apps/dokan",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

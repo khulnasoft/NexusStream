@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/elevenlabs",
+  "version": "0.1.0",
+  "description": "Nexusstream ElevenLabs Components",
+  "main": "elevenlabs.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "elevenlabs"
+  ],
+  "homepage": "https://khulnasoft.com/apps/elevenlabs",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

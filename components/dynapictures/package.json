@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/dynapictures",
+  "version": "0.1.0",
+  "description": "Nexusstream DynaPictures Components",
+  "main": "dynapictures.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "dynapictures"
+  ],
+  "homepage": "https://khulnasoft.com/apps/dynapictures",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@nexusstream/reapit_foundations",
+  "version": "0.0.1",
+  "description": "Nexusstream Reapit Foundations Components",
+  "main": "reapit_foundations.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "reapit_foundations"
+  ],
+  "homepage": "https://khulnasoft.com/apps/reapit_foundations",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}

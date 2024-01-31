@@ -1,0 +1,19 @@
+{
+  "name": "@nexusstream/testmonitor",
+  "version": "0.0.3",
+  "description": "Nexusstream Testmonitor Components",
+  "main": "testmonitor.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "testmonitor"
+  ],
+  "homepage": "https://khulnasoft.com/apps/testmonitor",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^1.2.1",
+    "moment": "^2.29.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

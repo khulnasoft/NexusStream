@@ -1,0 +1,20 @@
+{
+  "name": "@nexusstream/google_contacts",
+  "version": "0.1.0",
+  "description": "Nexusstream Gooogle Contacts Components",
+  "main": "google_contacts.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "google_contacts"
+  ],
+  "homepage": "https://khulnasoft.com/apps/google_contacts",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "dependencies": {
+    "@pipedream/platform": "^0.10.0",
+    "googleapis": "^96.0.0"
+  },
+  "gitHead": "e12480b94cc03bed4808ebc6b13e7fdb3a1ba535",
+  "publishConfig": {
+    "access": "public"
+  }
+}

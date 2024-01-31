@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/segmetrics",
+  "version": "0.0.3",
+  "description": "Nexusstream SegMetrics Components",
+  "main": "segmetrics.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "segmetrics"
+  ],
+  "homepage": "https://khulnasoft.com/apps/segmetrics",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@pipedream/platform": "^1.5.1"
+  }
+}

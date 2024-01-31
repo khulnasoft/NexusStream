@@ -1,0 +1,18 @@
+{
+  "name": "@nexusstream/murlist",
+  "version": "0.0.3",
+  "description": "Nexusstream MurList Components",
+  "main": "dist/app/murlist.app.mjs",
+  "keywords": [
+    "nexusstream",
+    "murlist"
+  ],
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://khulnasoft.com/apps/murlist",
+  "author": "Nexusstream <support@khulnasoft.com> (https://khulnasoft.com/)",
+  "publishConfig": {
+    "access": "public"
+  }
+}
